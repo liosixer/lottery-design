@@ -6,10 +6,10 @@
     <colorParam version="1.0"/>
   </params>
   <pages>
-    <page name="首页" ID="F82F622B-4598-4BF6-93F9-5307FB7E133C" expanded="True" code="J9UO6kC7pe" thumbCode="J9UO6kC7pe" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+    <page name="首页" ID="F82F622B-4598-4BF6-93F9-5307FB7E133C" expanded="True" code="J9UO6kC7pe" thumbCode="J9UO6kC7pe" status="psWhite" isfolder="False" isshownode="True">
       <images>
         <image key="802ABB430F21050BBE21604061F9674A.png"/>
-        <image key="2C911C6D9E3AC0FC025DB7CB11875F97.png"/>
+        <image key="BE1C79410FF449B5917821C7B9D8EF68.png"/>
         <image key="DD3CEAC7711244177AC9CF31071D7D9B.png"/>
         <image key="9E6D3170936B99458050F63D62D13D99.png"/>
         <image key="7F859C3CCA5C29DF0EFDD71660F93AF7.png"/>
@@ -17,11 +17,11 @@
         <image key="B7215C2E94F6423ECB5734AA4FE26B13.png"/>
         <image key="217D8C57A111E49C18F625CDC6D26F63.png"/>
         <image key="05A3DB7E5A637094503F65426ECA491A.png"/>
-        <image key="BE1C79410FF449B5917821C7B9D8EF68.png"/>
+        <image key="2C911C6D9E3AC0FC025DB7CB11875F97.png"/>
       </images>
     </page>
     <page name="彩种们" ID="EF23DF31-5D75-456E-8A48-EA9F8F7F7C42" expanded="True" status="psGreen" isfolder="True" isshownode="True">
-      <page name="双色球" ID="9886FA62-1395-47A2-99BA-A0E52519BB55" expanded="True" code="W5kw4lBddH" thumbCode="W5kw4lBddH" status="psWhite" isfolder="False" isshownode="True">
+      <page name="双色球" ID="9886FA62-1395-47A2-99BA-A0E52519BB55" expanded="True" code="IJGerY2TXB" thumbCode="IJGerY2TXB" status="psWhite" isfolder="False" isshownode="True">
         <images>
           <image key="4F2AE68A1F33D324B7BDB50167C52875.svg"/>
           <image key="3C3D1B980D04C748537FE09F7D0F1DEF.svg"/>
@@ -49,10 +49,11 @@
         </page>
         <page name="确认提示框" ID="AD66FFE6-72C5-473A-946F-21B77027194B" expanded="True" code="MNj1olJZhA" thumbCode="MNj1olJZhA" status="psWhite" isfolder="False" isshownode="True"/>
       </page>
-      <page name="快三" ID="CAD96066-861F-436B-A926-A8F41359FE3D" expanded="True" code="deUYgMnqQM" thumbCode="deUYgMnqQM" status="psWhite" isfolder="False" isshownode="True">
+      <page name="快三" ID="CAD96066-861F-436B-A926-A8F41359FE3D" expanded="True" code="1XpJMfwO4U" thumbCode="1XpJMfwO4U" status="psWhite" isfolder="False" isshownode="True">
         <images>
-          <image key="9E6D3170936B99458050F63D62D13D99.png"/>
           <image key="7F859C3CCA5C29DF0EFDD71660F93AF7.png"/>
+          <image key="A3B89FB8D7A942600AD5240B7C821AF9.svg"/>
+          <image key="4F2AE68A1F33D324B7BDB50167C52875.svg"/>
         </images>
       </page>
       <page name="3D" ID="FB76F977-B523-4B4E-B300-B0B0C4E2C29B" expanded="True" code="eyPZYqp1xY" thumbCode="eyPZYqp1xY" status="psWhite" isfolder="False" isshownode="True"/>
@@ -62,7 +63,7 @@
     <page name="帮助" ID="EB707C9B-CF62-4B0C-ACC5-49ED72232DC2" expanded="True" code="dJ1BH32C1T" thumbCode="dJ1BH32C1T" status="psWhite" isfolder="False" isshownode="True"/>
     <page name="账户中心" ID="B5B163E1-4BCA-4E6C-BB92-18392EE72A86" expanded="True" code="DaXjiWeqmv" thumbCode="DaXjiWeqmv" status="psWhite" isfolder="False" isshownode="True"/>
     <page name="开奖列表" ID="34653606-9039-44B2-B25C-6F37BA7E0E53" expanded="True" code="vG2gk5csUV" thumbCode="vG2gk5csUV" status="psWhite" isfolder="False" isshownode="True"/>
-    <page name="玩法们" ID="82150CF2-C5BA-40D2-B75C-4AF74D900D7F" expanded="False" status="psGreen" isfolder="True" isshownode="True">
+    <page name="玩法们" ID="82150CF2-C5BA-40D2-B75C-4AF74D900D7F" expanded="True" status="psGreen" isfolder="True" isshownode="True">
       <page name="双色球" ID="43A0E527-2CC2-4CCC-AEFA-931B8C5F7DAC" expanded="True" code="uOkYAl6OFN" thumbCode="uOkYAl6OFN" status="psWhite" isfolder="False" isshownode="True"/>
       <page name="快三" ID="10C8DC03-9DFD-4C36-9920-9A26B6EA97D7" expanded="True" code="FpmQOwc1qS" thumbCode="FpmQOwc1qS" status="psWhite" isfolder="False" isshownode="True"/>
       <page name="30选5" ID="08D0AF6A-7278-43FF-B88A-664EAD0BBFDA" expanded="True" code="Hl6UDY3WEq" thumbCode="rwbpONj532" status="psWhite" isfolder="False" isshownode="True"/>
@@ -70,7 +71,7 @@
       <page name="3D" ID="EFAFB6F0-47CE-4752-B34D-090D5B78D0B1" expanded="True" code="JFlLAYXeOI" thumbCode="FQRSaQPlQ9" status="psWhite" isfolder="False" isshownode="True"/>
     </page>
     <page name="开奖详情们" ID="D967DAE8-51B2-4BC2-842F-31F917A45289" expanded="True" status="psGreen" isfolder="True" isshownode="True">
-      <page name="双色球" ID="2A7E8A2D-7F88-4D04-B6AC-AE9BB2FEC2EE" expanded="True" code="3jGijWXGww" thumbCode="1NMeVK9b1i" status="psWhite" isfolder="False" isshownode="True">
+      <page name="双色球" ID="2A7E8A2D-7F88-4D04-B6AC-AE9BB2FEC2EE" expanded="True" code="3jGijWXGww" thumbCode="3jGijWXGww" status="psWhite" isfolder="False" isshownode="True">
         <page name="页面" ID="87B26027-BC09-49DD-A825-AC46936BA4E7" expanded="True" code="4Rj2rnEp9I" thumbCode="4Rj2rnEp9I" status="psWhite" isfolder="False" isshownode="True"/>
       </page>
       <page name="快三" ID="0C869815-5E57-483E-AB4B-6551226332CC" expanded="True" code="71l6Eu8zPH" thumbCode="71l6Eu8zPH" status="psWhite" isfolder="False" isshownode="True"/>
@@ -79,7 +80,61 @@
       <page name="3D" ID="3E15B9CA-646C-49DA-854B-012B3D7C7E46" expanded="True" code="fV2lDxLYVD" thumbCode="fV2lDxLYVD" status="psWhite" isfolder="False" isshownode="True"/>
     </page>
     <page name="模态框们" ID="01AFDF7C-0482-4899-B5CF-03D024C28BB1" expanded="True" status="psGreen" isfolder="True" isshownode="True">
-      <page name="登录" ID="A08C5C76-40E5-4F40-8DD3-C540843DE2C2" expanded="True" code="fizW1aAmbu" thumbCode="fizW1aAmbu" status="psWhite" isfolder="False" isshownode="True"/>
+      <page name="账户登录" ID="A08C5C76-40E5-4F40-8DD3-C540843DE2C2" expanded="True" code="hi4ZZdMlFc" thumbCode="hi4ZZdMlFc" status="psWhite" isfolder="False" isshownode="True">
+        <images>
+          <image key="554F8B1DD371E18CFAF7BE87D1728E3B.svg"/>
+        </images>
+      </page>
+      <page name="账户登录 - 账户不存在" ID="968C08FA-31E7-4A74-BA39-7F8A56DFBD34" expanded="True" code="rZo6AKkTZp" thumbCode="rZo6AKkTZp" status="psWhite" isfolder="False" isshownode="True">
+        <images>
+          <image key="554F8B1DD371E18CFAF7BE87D1728E3B.svg"/>
+        </images>
+      </page>
+      <page name="账户登录 - 账户存在" ID="91729786-CBFD-47E3-8458-D2A0ADB0E885" expanded="True" code="32yZWSWWRK" thumbCode="32yZWSWWRK" status="psWhite" isfolder="False" isshownode="True">
+        <images>
+          <image key="554F8B1DD371E18CFAF7BE87D1728E3B.svg"/>
+        </images>
+      </page>
+      <page name="忘记密码" ID="95D0CE26-193A-46C1-A85E-CD9FFF6D7D57" expanded="True" code="RBBbLT1wHV" thumbCode="RBBbLT1wHV" status="psWhite" isfolder="False" isshownode="True">
+        <images>
+          <image key="554F8B1DD371E18CFAF7BE87D1728E3B.svg"/>
+        </images>
+      </page>
+      <page name="更新用户信息" ID="50797664-9482-4405-B2A8-14C5768B47BA" expanded="False" code="HaZ25gNnLh" thumbCode="HaZ25gNnLh" status="psWhite" isfolder="False" isshownode="True">
+        <images>
+          <image key="554F8B1DD371E18CFAF7BE87D1728E3B.svg"/>
+        </images>
+      </page>
+      <page name="确认订单 - 余额充足" ID="AD901C7D-59EC-459A-894C-58DB9C483DE0" expanded="True" code="TbjHQZkt77" thumbCode="TbjHQZkt77" status="psWhite" isfolder="False" isshownode="True">
+        <images>
+          <image key="554F8B1DD371E18CFAF7BE87D1728E3B.svg"/>
+        </images>
+      </page>
+      <page name="确认订单 - 余额不足" ID="B123E37D-57A2-473A-A554-DEAA992361FC" expanded="True" code="kCUgY67Dx1" thumbCode="kCUgY67Dx1" status="psWhite" isfolder="False" isshownode="True">
+        <images>
+          <image key="554F8B1DD371E18CFAF7BE87D1728E3B.svg"/>
+        </images>
+      </page>
+      <page name="支付 - 补足差额" ID="A72BB6E0-1D55-40AB-8CC8-34A335DCC1A3" expanded="True" code="k5svSSADKo" thumbCode="k5svSSADKo" status="psWhite" isfolder="False" isshownode="True">
+        <images>
+          <image key="554F8B1DD371E18CFAF7BE87D1728E3B.svg"/>
+        </images>
+      </page>
+      <page name="打印订单" ID="B861B9AD-F34C-41F9-BE06-82D1BE8B0AC3" expanded="True" code="UfDYwD7x15" thumbCode="UfDYwD7x15" status="psWhite" isfolder="False" isshownode="True">
+        <images>
+          <image key="554F8B1DD371E18CFAF7BE87D1728E3B.svg"/>
+        </images>
+      </page>
+      <page name="退出账户提示" ID="E216E9A1-41A9-4F48-9886-1B9D9ACCAABC" expanded="True" code="YJAv3XT2us" thumbCode="YJAv3XT2us" status="psWhite" isfolder="False" isshownode="True">
+        <images>
+          <image key="554F8B1DD371E18CFAF7BE87D1728E3B.svg"/>
+        </images>
+      </page>
+      <page name="返回首页提示" ID="2C91B460-AAB1-424E-AA47-717BD568B5F4" expanded="True" code="gIlNn6Ptbb" thumbCode="GdhlfbJRlD" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+        <images>
+          <image key="554F8B1DD371E18CFAF7BE87D1728E3B.svg"/>
+        </images>
+      </page>
     </page>
   </pages>
   <trash>
@@ -96,6 +151,7 @@
     <image key="B7215C2E94F6423ECB5734AA4FE26B13.png"/>
     <image key="7F859C3CCA5C29DF0EFDD71660F93AF7.png"/>
     <image key="A3B89FB8D7A942600AD5240B7C821AF9.svg"/>
+    <image key="554F8B1DD371E18CFAF7BE87D1728E3B.svg"/>
     <image key="05A3DB7E5A637094503F65426ECA491A.png"/>
     <image key="BE1C79410FF449B5917821C7B9D8EF68.png"/>
     <image key="9E6D3170936B99458050F63D62D13D99.png"/>

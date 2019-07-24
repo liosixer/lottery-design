@@ -1,0 +1,96 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="50797664-9482-4405-B2A8-14C5768B47BA" platform="MtPad" defaultW="1280" defaultH="720" measureW="1280" measureH="720" screenOrientation="MoLandscape" mobileScreenScale="0">
+  <controls controlCount="13">
+    <control controlID="9DD7BB05-740E-45D0-A753-2C193B3760F3" controlTypeID="Panel" x="256" y="126" w="768" h="468" zOrder="0">
+      <groupChildrenDescriptors>
+        <control controlID="BA2EF358-3D70-48CA-86A0-B0F96472B29A" controlTypeID="Button" x="290" y="346" w="215" h="66" zOrder="0">
+          <color>4294901760</color>
+          <borderVisible>False</borderVisible>
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>%E4%BF%9D%E5%AD%98%E6%9B%B4%E6%96%B0</text>
+          <textColor>4294967295</textColor>
+          <textSize>32</textSize>
+          <lineSpacing>0</lineSpacing>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="3CE4565A-9DD4-4393-8635-28F0964E5070" controlTypeID="__group__" x="80" y="20" w="668" h="59" zOrder="1">
+          <groupChildrenDescriptors>
+            <control controlID="E5FF81B4-0F74-4213-89BA-D0D974E32590" controlTypeID="HRule" x="0" y="47" w="637" h="12" zOrder="0"/>
+            <control controlID="389CC167-4601-4BA2-8789-2536D5EE3CFE" controlTypeID="Icon" x="638" y="0" w="30" h="30" zOrder="1">
+              <icon>
+                <ID/>
+                <iconFontName>jdIonicons</iconFontName>
+                <iconCode>61737</iconCode>
+              </icon>
+              <URL>554F8B1DD371E18CFAF7BE87D1728E3B.svg</URL>
+            </control>
+            <control controlID="9AB433F3-6E9B-41B9-8674-1354CEAFC9C6" controlTypeID="Label" x="178" y="0" w="251" h="43" zOrder="2">
+              <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>%E6%9B%B4%E6%96%B0%E3%80%90Any%E3%80%91%E4%BF%A1%E6%81%AF</text>
+              <textSize>32</textSize>
+              <lineSpacing>0</lineSpacing>
+              <useDefaultTextSize>False</useDefaultTextSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="2B66B4B6-BBC5-435E-A013-09E9EE47CB66" controlTypeID="Border" x="0" y="0" w="768" h="468" zOrder="2">
+          <alias>borderLayer</alias>
+        </control>
+      </groupChildrenDescriptors>
+      <thinkness>1</thinkness>
+    </control>
+    <control controlID="FC0ECF96-5E5C-4EE4-9BA4-3258304D542A" controlTypeID="__group__" x="420" y="293" w="440" h="109" zOrder="1">
+      <groupChildrenDescriptors>
+        <control controlID="028428E4-F3A7-42B7-9A0A-745737167D89" controlTypeID="Line" x="0" y="44" w="440" h="1" zOrder="0">
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <textSize>14</textSize>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+          <controlPoint>(220,0)</controlPoint>
+          <startPoint>(1,0)</startPoint>
+          <endPoint>(440,0)</endPoint>
+        </control>
+        <control controlID="E7B7E6A1-762C-47ED-BBE6-9557258C3419" controlTypeID="Line" x="0" y="108" w="330" h="1" zOrder="1">
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <textSize>14</textSize>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+          <controlPoint>(165,0)</controlPoint>
+          <startPoint>(0,0)</startPoint>
+          <endPoint>(330,0)</endPoint>
+        </control>
+        <control controlID="013B91B6-BF9D-47D8-B33B-74B314DA4601" controlTypeID="Label" x="0" y="0" w="168" h="37" zOrder="2">
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>%E8%BE%93%E5%85%A5%E7%9B%B8%E5%85%B3%E4%BF%A1%E6%81%AF</text>
+          <textColor>4288256409</textColor>
+          <textSize>28</textSize>
+          <lineSpacing>0</lineSpacing>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="B0AB2858-BFE8-472F-9BA7-33CA1C2B4B10" controlTypeID="Button" x="335" y="61" w="105" h="47" zOrder="3">
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>%E9%AA%8C%E8%AF%81%E7%A0%81</text>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="F1C3CE6D-F448-47CD-9108-9F33A9081168" controlTypeID="Label" x="0" y="67" w="167" h="37" zOrder="4">
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>%E8%AF%B7%E8%BE%93%E5%85%A5%E9%AA%8C%E8%AF%81%E7%A0%81</text>
+          <textColor>4288256409</textColor>
+          <textSize>28</textSize>
+          <lineSpacing>0</lineSpacing>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

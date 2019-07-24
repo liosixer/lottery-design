@@ -1,0 +1,65 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="A72BB6E0-1D55-40AB-8CC8-34A335DCC1A3" platform="MtPad" defaultW="1280" defaultH="720" measureW="1280" measureH="720" screenOrientation="MoLandscape" mobileScreenScale="0">
+  <controls controlCount="10">
+    <control controlID="2BEB016D-F836-4789-ABEE-ED0BD7A5CB53" controlTypeID="Panel" x="256" y="126" w="768" h="468" zOrder="0">
+      <groupChildrenDescriptors>
+        <control controlID="EF8F2C86-F9EF-4DF7-9038-64A3DDBB29A3" controlTypeID="__group__" x="80" y="14" w="668" h="65" zOrder="0">
+          <groupChildrenDescriptors>
+            <control controlID="282FF857-A908-49CF-A226-9DFA942DE73F" controlTypeID="HRule" x="0" y="53" w="637" h="12" zOrder="0"/>
+            <control controlID="76C59536-58DF-4B6C-B4C1-4FC4A7704B65" controlTypeID="Icon" x="638" y="6" w="30" h="30" zOrder="1">
+              <icon>
+                <ID/>
+                <iconFontName>jdIonicons</iconFontName>
+                <iconCode>61737</iconCode>
+              </icon>
+              <URL>554F8B1DD371E18CFAF7BE87D1728E3B.svg</URL>
+            </control>
+            <control controlID="D8E3EF99-E122-4CB2-BB3C-5CAE720239DC" controlTypeID="TextArea" x="72" y="0" w="465" h="53" zOrder="2">
+              <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>%E3%80%90any%E3%80%91%E6%94%AF%E4%BB%98+-+%E8%A1%A5%E8%B6%B3%E5%B7%AE%E9%A2%9D</text>
+              <textSize>32</textSize>
+              <textAlign>HaCenter</textAlign>
+              <useDefaultTextSize>False</useDefaultTextSize>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="B9C25A30-2182-467C-A0B0-AE54CCB8E2E2" controlTypeID="TextArea" x="102" y="79" w="593" h="34" zOrder="1">
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>%E6%82%A8%E3%80%9018827060608%E3%80%91%EF%BC%8C%E8%B4%AD%E4%B9%B0%E5%BD%93%E5%89%8D%E8%AE%A2%E5%8D%95%E8%BF%98%E9%9C%80%E8%A1%A5%E8%B6%B3%E3%80%9034%E3%80%91%E5%85%83</text>
+          <textSize>20</textSize>
+          <textAlign>HaCenter</textAlign>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="DA66F690-641B-4BFB-B104-C557894A0961" controlTypeID="Button" x="294" y="370" w="180" h="66" zOrder="2">
+          <color>4288256409</color>
+          <borderVisible>False</borderVisible>
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>%E5%8F%96%E6%B6%88</text>
+          <textColor>4294967295</textColor>
+          <textSize>28</textSize>
+          <lineSpacing>0</lineSpacing>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="47040CFA-2868-44F4-815A-D9116F209E67" controlTypeID="QRCode" x="284" y="133" w="200" h="200" zOrder="3"/>
+        <control controlID="18A8FFE3-7F58-4FF3-B622-93E1C2530DC4" controlTypeID="TextArea" x="264" y="333" w="240" h="32" zOrder="4">
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>%E5%89%A9%E4%BD%99%E6%97%B6%E9%97%B4%EF%BC%9A60s</text>
+          <textSize>20</textSize>
+          <textAlign>HaCenter</textAlign>
+          <useDefaultTextSize>False</useDefaultTextSize>
+        </control>
+        <control controlID="415D597E-E714-434B-BCDE-C510CD2E36EE" controlTypeID="Border" x="0" y="0" w="768" h="468" zOrder="5">
+          <alias>borderLayer</alias>
+        </control>
+      </groupChildrenDescriptors>
+      <thinkness>1</thinkness>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>
