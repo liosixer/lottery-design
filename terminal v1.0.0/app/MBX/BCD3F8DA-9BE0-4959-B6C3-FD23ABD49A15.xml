@@ -1,11 +1,11 @@
-<mockup version="5.3" minAllowVersion="5.3" ID="B861B9AD-F34C-41F9-BE06-82D1BE8B0AC3" platform="MtPad" defaultW="1280" defaultH="720" measureW="1280" measureH="720" screenOrientation="MoLandscape" mobileScreenScale="0">
+<mockup version="5.3" minAllowVersion="5.3" ID="BEE65107-E82C-4542-BAC6-ECE44A206BF9" platform="MtPad" defaultW="1280" defaultH="720" measureW="1280" measureH="720" screenOrientation="MoLandscape" mobileScreenScale="0">
   <controls controlCount="9">
-    <control controlID="6D6896EC-CF87-40C9-9209-3EA85A0CEEAB" controlTypeID="Panel" x="256" y="126" w="768" h="468" zOrder="0">
+    <control controlID="E2882CC7-38C4-4CCC-97A5-644BE8380CBC" controlTypeID="Panel" x="256" y="126" w="768" h="468" zOrder="0">
       <groupChildrenDescriptors>
-        <control controlID="13FE53CC-6C95-4BE9-8B5B-F07E84369C87" controlTypeID="__group__" x="80" y="14" w="668" h="65" zOrder="0">
+        <control controlID="76DD9344-02BB-40DE-B1BA-8E2680F028FE" controlTypeID="__group__" x="80" y="14" w="668" h="65" zOrder="0">
           <groupChildrenDescriptors>
-            <control controlID="26AB55E4-93C9-4D79-863F-A7242D8E388E" controlTypeID="HRule" x="0" y="53" w="637" h="12" zOrder="0"/>
-            <control controlID="752C2AD6-368B-4333-89C8-B4A58E7E44EC" controlTypeID="Icon" x="638" y="6" w="30" h="30" zOrder="1">
+            <control controlID="8D04884D-12FC-4C57-B7CF-6B6DCC147A56" controlTypeID="HRule" x="0" y="53" w="637" h="12" zOrder="0"/>
+            <control controlID="65668A14-CEEA-42E7-A642-D5A8BB5440D4" controlTypeID="Icon" x="638" y="6" w="30" h="30" zOrder="1">
               <icon>
                 <ID/>
                 <iconFontName>jdIonicons</iconFontName>
@@ -13,9 +13,9 @@
               </icon>
               <URL>554F8B1DD371E18CFAF7BE87D1728E3B.svg</URL>
             </control>
-            <control controlID="48AB2BE0-FF14-44ED-9C86-A8A1D88964A6" controlTypeID="TextArea" x="72" y="0" w="465" h="53" zOrder="2">
+            <control controlID="1A1895E0-C592-4145-A071-C3E3A937D6B9" controlTypeID="TextArea" x="72" y="0" w="465" h="53" zOrder="2">
               <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
-              <text>%E6%89%93%E5%8D%B0%E8%AE%A2%E5%8D%95</text>
+              <text>%E6%B8%A9%E9%A6%A8%E6%8F%90%E9%86%92</text>
               <textSize>32</textSize>
               <textAlign>HaCenter</textAlign>
               <useDefaultTextSize>False</useDefaultTextSize>
@@ -23,26 +23,27 @@
             </control>
           </groupChildrenDescriptors>
         </control>
-        <control controlID="BD1E1CAA-5DE3-4EFD-99B9-DB6D6954B98E" controlTypeID="Button" x="184" y="370" w="180" h="66" zOrder="1">
+        <control controlID="202F5B95-68B1-45E3-A500-6BC6ECA10CE4" controlTypeID="Button" x="184" y="370" w="180" h="66" zOrder="1">
           <color>4288256409</color>
           <borderVisible>False</borderVisible>
           <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
-          <text>%E5%8F%96+%E6%B6%88</text>
+          <text>%E5%8F%96%E6%B6%88(10%E7%A7%92)</text>
           <textColor>4294967295</textColor>
           <textSize>28</textSize>
           <lineSpacing>0</lineSpacing>
           <useDefaultTextSize>False</useDefaultTextSize>
           <selectedIndex>-1</selectedIndex>
         </control>
-        <control controlID="7F226D63-B3D1-4540-8139-9A9D86E24370" controlTypeID="TextArea" x="88" y="188" w="593" h="59" zOrder="2">
+        <control controlID="4A517358-1DA4-42A1-A322-7098C70239A1" controlTypeID="TextArea" x="88" y="112" w="593" h="214" zOrder="2">
           <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
-          <text>%E8%AE%A2%E5%8D%95%E6%8F%90%E4%BA%A4%E6%88%90%E5%8A%9F%EF%BC%8C%E6%98%AF%E5%90%A6%E6%89%93%E5%8D%B0%EF%BC%9F</text>
-          <textSize>40</textSize>
+          <text>%E5%8F%96%E6%B6%88%E5%B0%86%E8%87%AA%E5%8A%A8%E9%80%80%E5%87%BA%E8%B4%A6%E6%88%B7%0D%0A%0D%0A%E6%98%AF%E5%90%A6%E7%BB%A7%E7%BB%AD%E8%B4%AD%E5%BD%A9%EF%BC%9F</text>
+          <textSize>32</textSize>
           <textAlign>HaCenter</textAlign>
+          <textVAlign>VaMiddle</textVAlign>
           <useDefaultTextSize>False</useDefaultTextSize>
           <selectedIndex>-1</selectedIndex>
         </control>
-        <control controlID="4B35DEAC-FA2A-42CB-B0EA-AC728198A7CC" controlTypeID="Button" x="404" y="370" w="180" h="66" zOrder="3">
+        <control controlID="C268C151-A520-4872-BCDD-56FB04A5DAB0" controlTypeID="Button" x="404" y="370" w="180" h="66" zOrder="3">
           <color>4278190131</color>
           <borderVisible>False</borderVisible>
           <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
@@ -53,7 +54,7 @@
           <useDefaultTextSize>False</useDefaultTextSize>
           <selectedIndex>-1</selectedIndex>
         </control>
-        <control controlID="67FD8E65-3B6B-4D95-B39D-414821C362F1" controlTypeID="Border" x="0" y="0" w="768" h="468" zOrder="4">
+        <control controlID="C6DF52D8-0AF0-42E2-9AC3-4FA8A32E1330" controlTypeID="Border" x="0" y="0" w="768" h="468" zOrder="4">
           <alias>borderLayer</alias>
         </control>
       </groupChildrenDescriptors>
