@@ -1,0 +1,35 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="35440A68-1977-49C6-82E7-29BA0311C8DA" platform="MtPad" defaultW="1280" defaultH="720" measureW="1280" measureH="720" screenOrientation="MoLandscape" mobileScreenScale="0">
+  <controls controlCount="3">
+    <control controlID="E01A1EB6-C23C-4295-8E0E-6FEBDCBE4275" controlTypeID="List" x="0" y="0" w="558" h="402" zOrder="0">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>2019-08-04+15%3A26++%E6%B6%88%E8%B4%B92%E5%85%83%EF%BC%8C%E7%BB%93%E4%BD%990%E5%85%83++%E6%B5%81%E6%B0%B4%E5%8F%B7%EF%BC%9A2019080452500000%0D%0A2019-08-04+15%3A26++%E5%85%85%E5%80%BC2%E5%85%83%EF%BC%8C%E7%BB%93%E4%BD%992%E5%85%83++%E6%B5%81%E6%B0%B4%E5%8F%B7%EF%BC%9A2019080452500000%0D%0A2019-08-04+15%3A26++%E6%B6%88%E8%B4%B92%E5%85%83%EF%BC%8C%E7%BB%93%E4%BD%990%E5%85%83++%E6%B5%81%E6%B0%B4%E5%8F%B7%EF%BC%9A2019080452500000%0D%0A2019-08-04+15%3A26++%E6%B6%88%E8%B4%B92%E5%85%83%EF%BC%8C%E7%BB%93%E4%BD%990%E5%85%83++%E6%B5%81%E6%B0%B4%E5%8F%B7%EF%BC%9A2019080452500000%0D%0A2019-08-04+15%3A26++%E5%85%85%E5%80%BC2%E5%85%83%EF%BC%8C%E7%BB%93%E4%BD%992%E5%85%83++%E6%B5%81%E6%B0%B4%E5%8F%B7%EF%BC%9A2019080452500000%0D%0A2019-08-04+15%3A26++%E6%B6%88%E8%B4%B92%E5%85%83%EF%BC%8C%E7%BB%93%E4%BD%990%E5%85%83++%E6%B5%81%E6%B0%B4%E5%8F%B7%EF%BC%9A2019080452500000%0D%0A2019-08-04+15%3A26++%E6%B6%88%E8%B4%B92%E5%85%83%EF%BC%8C%E7%BB%93%E4%BD%990%E5%85%83++%E6%B5%81%E6%B0%B4%E5%8F%B7%EF%BC%9A2019080452500000%0D%0A2019-08-04+15%3A26++%E6%B6%88%E8%B4%B92%E5%85%83%EF%BC%8C%E7%BB%93%E4%BD%990%E5%85%83++%E6%B5%81%E6%B0%B4%E5%8F%B7%EF%BC%9A2019080452500000%0D%0A2019-08-04+15%3A26++%E6%B6%88%E8%B4%B92%E5%85%83%EF%BC%8C%E7%BB%93%E4%BD%990%E5%85%83++%E6%B5%81%E6%B0%B4%E5%8F%B7%EF%BC%9A2019080452500000%0D%0A2019-08-04+15%3A26++%E6%B6%88%E8%B4%B92%E5%85%83%EF%BC%8C%E7%BB%93%E4%BD%990%E5%85%83++%E6%B5%81%E6%B0%B4%E5%8F%B7%EF%BC%9A2019080452500000</text>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedColor>1422928941</selectedColor>
+      <itemHeight>40</itemHeight>
+      <separatorColor>1415997030</separatorColor>
+      <showSeparator>True</showSeparator>
+    </control>
+    <control controlID="5775A3F9-2736-4CD2-815C-65E68C6F0CDD" controlTypeID="PointyButton" x="302" y="412" w="100" h="44" zOrder="1">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E4%B8%8B%E4%B8%80%E9%A1%B5</text>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="629DAFE4-2A70-4C2D-8FF7-B3D6EA5F3793" controlTypeID="PointyButton" x="156" y="412" w="100" h="44" zOrder="2">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E4%B8%8A%E4%B8%80%E9%A1%B5</text>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <direction>0</direction>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294572795</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

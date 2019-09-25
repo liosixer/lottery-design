@@ -13,7 +13,9 @@
           <useDefaultTextSize>False</useDefaultTextSize>
           <selectedIndex>-1</selectedIndex>
         </control>
-        <control controlID="D1531010-F559-4B7A-92BC-2FDE4DAFF576" controlTypeID="HRule" x="80" y="67" w="637" h="12" zOrder="1"/>
+        <control controlID="D1531010-F559-4B7A-92BC-2FDE4DAFF576" controlTypeID="HRule" x="80" y="67" w="637" h="12" zOrder="1">
+          <textSize>14</textSize>
+        </control>
         <control controlID="0B341F6E-4017-4808-A8DD-8D86EFDEEA0E" controlTypeID="Icon" x="718" y="20" w="30" h="30" zOrder="2">
           <icon>
             <ID/>
@@ -21,6 +23,7 @@
             <iconCode>61737</iconCode>
           </icon>
           <URL>554F8B1DD371E18CFAF7BE87D1728E3B.svg</URL>
+          <textSize>14</textSize>
         </control>
         <control controlID="B6293297-6CCE-487D-A44B-4FECB89D39A4" controlTypeID="TextArea" x="116" y="20" w="563" h="47" zOrder="3">
           <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
@@ -61,15 +64,17 @@
         </control>
         <control controlID="F740F67B-A1AA-4D42-A64B-ED8FA9747905" controlTypeID="Border" x="0" y="0" w="768" h="468" zOrder="7">
           <alias>borderLayer</alias>
+          <textSize>14</textSize>
         </control>
       </groupChildrenDescriptors>
       <thinkness>1</thinkness>
+      <textSize>14</textSize>
     </control>
   </controls>
   <param>
-    <backgroundColor>4294967295</backgroundColor>
-    <fontSize>0</fontSize>
-    <fontFamily/>
+    <backgroundColor>4294572795</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
     <guideLines/>
   </param>
 </mockup>

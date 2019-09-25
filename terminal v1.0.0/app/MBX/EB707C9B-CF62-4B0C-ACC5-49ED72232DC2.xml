@@ -1,9 +1,43 @@
 ﻿<mockup version="5.3" minAllowVersion="5.3" ID="EB707C9B-CF62-4B0C-ACC5-49ED72232DC2" platform="MtPad" defaultW="1280" defaultH="720" measureW="1280" measureH="720" screenOrientation="MoLandscape" mobileScreenScale="0">
-  <controls controlCount="0"/>
+  <controls controlCount="5">
+    <control controlID="F3A9AEB8-520A-42FB-8115-0C679AF3C8E3" controlTypeID="__group__" x="0" y="0" w="1280" h="80" zOrder="0">
+      <groupChildrenDescriptors>
+        <control controlID="9024E550-7556-496C-AEC5-A1E7F7A2B0F9" controlTypeID="Image" x="0" y="0" w="1280" h="80" zOrder="0">
+          <caption>header_child</caption>
+          <URL>7B8EE10436449DA65F4CF9674B966AA1.png</URL>
+        </control>
+        <control controlID="A13A2313-A099-4110-8723-EF7C01243449" controlTypeID="Icon" x="10" y="17" w="46" h="46" zOrder="1">
+          <color>4294967295</color>
+          <icon>
+            <ID/>
+            <iconFontName>jdIonicons</iconFontName>
+            <iconCode>61732</iconCode>
+          </icon>
+          <URL>CFAC147583A1C602F91FE6F2C39DA488.svg</URL>
+        </control>
+        <control controlID="56D17F13-D8D3-41EB-9419-DBA8192315AD" controlTypeID="TextArea" x="369" y="14" w="542" h="51" zOrder="2">
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>%E6%B9%96%E5%8C%97%E7%A6%8F%E5%BD%A9+-+%E3%80%90Any%E3%80%91%E7%8E%A9%E6%B3%95%E5%8F%8A%E8%A7%84%E5%88%99</text>
+          <textColor>4294967295</textColor>
+          <textSize>28</textSize>
+          <textAlign>HaCenter</textAlign>
+          <textVAlign>VaMiddle</textVAlign>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="19F4518A-8298-49E4-AD58-F99A37AC235A" controlTypeID="TextArea" x="0" y="80" w="1280" h="640" zOrder="1">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Donec+accumsan+porttitor+velit+non+venenatis.+Praesent+vehicula+convallis+nisl+non+aliquet.+Curabitur+viverra+nulla+nec+pulvinar+volutpat.+Etiam+quis+nisl+augue.+Sed+fermentum+mattis+malesuada.+Praesent+congue+blandit+metus+non+blandit.+Vivamus+ante+nisl%2C+egestas+quis+ultricies+eget%2C+sollicitudin+nec+mauris.+Donec+molestie+est+dui%2C+ac+tincidunt+tellus+placerat+ac.+Nulla+quam+turpis%2C+tincidunt+non+lorem+at%2C+varius+hendrerit+diam.+Ut+neque+erat%2C+elementum+ac+molestie+in%2C+mattis+non+massa.+Vivamus+lorem+sapien%2C+posuere+vel+justo+vel%2C+condimentum+tempus+libero.+Sed+vulputate+orci+magna%2C+sed+aliquam+ex+lacinia+in.+Nullam+quis+tortor+velit.+Lorem+ipsum+dolor+sit+amet%2C+consectetur+adipiscing+elit.+Suspendisse+erat+augue%2C+convallis+lacinia+erat+sed%2C+ullamcorper+imperdiet+lectus.+Donec+dapibus%2C+leo+nec+lobortis+accumsan%2C+lacus+est+suscipit+nibh%2C+sit+amet+convallis+erat+est+et+arcu.%0D%0A%0D%0ADonec+accumsan+porttitor+velit+non+venenatis.+Praesent+vehicula+convallis+nisl+non+aliquet.+Curabitur+viverra+nulla+nec+pulvinar+volutpat.+Etiam+quis+nisl+augue.+Sed+fermentum+mattis+malesuada.+Praesent+congue+blandit+metus+non+blandit.+Vivamus+ante+nisl%2C+egestas+quis+ultricies+eget%2C+sollicitudin+nec+mauris.+Donec+molestie+est+dui%2C+ac+tincidunt+tellus+placerat+ac.+Nulla+quam+turpis%2C+tincidunt+non+lorem+at%2C+varius+hendrerit+diam.+Ut+neque+erat%2C+elementum+ac+molestie+in%2C+mattis+non+massa.+Vivamus+lorem+sapien%2C+posuere+vel+justo+vel%2C+condimentum+tempus+libero.+Sed+vulputate+orci+magna%2C+sed+aliquam+ex+lacinia+in.+Nullam+quis+tortor+velit.+Lorem+ipsum+dolor+sit+amet%2C+consectetur+adipiscing+elit.+Suspendisse+erat+augue%2C+convallis+lacinia+erat+sed%2C+ullamcorper+imperdiet+lectus.+Donec+dapibus%2C+leo+nec+lobortis+accumsan%2C+lacus+est+suscipit+nibh%2C+sit+amet+convallis+erat+est+et+arcu.%0D%0A%0D%0ADonec+accumsan+porttitor+velit+non+venenatis.+Praesent+vehicula+convallis+nisl+non+aliquet.+Curabitur+viverra+nulla+nec+pulvinar+volutpat.+Etiam+quis+nisl+augue.+Sed+fermentum+mattis+malesuada.+Praesent+congue+blandit+metus+non+blandit.+Vivamus+ante+nisl%2C+egestas+quis+ultricies+eget%2C+sollicitudin+nec+mauris.+Donec+molestie+est+dui%2C+ac+tincidunt+tellus+placerat+ac.+Nulla+quam+turpis%2C+tincidunt+non+lorem+at%2C+varius+hendrerit+diam.+Ut+neque+erat%2C+elementum+ac+molestie+in%2C+mattis+non+massa.+Vivamus+lorem+sapien%2C+posuere+vel+justo+vel%2C+condimentum+tempus+libero.+Sed+vulputate+orci+magna%2C+sed+aliquam+ex+lacinia+in.+Nullam+quis+tortor+velit.+Lorem+ipsum+dolor+sit+amet%2C+consectetur+adipiscing+elit.+Suspendisse+erat+augue%2C+convallis+lacinia+erat+sed%2C+ullamcorper+imperdiet+lectus.+Donec+dapibus%2C+leo+nec+lobortis+accumsan%2C+lacus+est+suscipit+nibh%2C+sit+amet+convallis+erat+est+et+arcu.%0D%0A%0D%0ADonec+accumsan+porttitor+velit+non+venenatis.+Praesent+vehicula+convallis+nisl+non+aliquet.+Curabitur+viverra+nulla+nec+pulvinar+volutpat.+Etiam+quis+nisl+augue.+Sed+fermentum+mattis+malesuada.+Praesent+congue+blandit+metus+non+blandit.+Vivamus+ante+nisl%2C+egestas+quis+ultricies+eget%2C+sollicitudin+nec+mauris.+Donec+molestie+est+dui%2C+ac+tincidunt+tellus+placerat+ac.+Nulla+quam+turpis%2C+tincidunt+non+lorem+at%2C+varius+hendrerit+diam.+Ut+neque+erat%2C+elementum+ac+molestie+in%2C+mattis+non+massa.+Vivamus+lorem+sapien%2C+posuere+vel+justo+vel%2C+condimentum+tempus+libero.+Sed+vulputate+orci+magna%2C+sed+aliquam+ex+lacinia+in.+Nullam+quis+tortor+velit.+Lorem+ipsum+dolor+sit+amet%2C+consectetur+adipiscing+elit.+Suspendisse+erat+augue%2C+convallis+lacinia+erat+sed%2C+ullamcorper+imperdiet+lectus.+Donec+dapibus%2C+leo+nec+lobortis+accumsan%2C+lacus+est+suscipit+nibh%2C+sit+amet+convallis+erat+est+et+arcu.%0D%0A%0D%0ADonec+accumsan+porttitor+velit+non+venenatis.+Praesent+vehicula+convallis+nisl+non+aliquet.+Curabitur+viverra+nulla+nec+pulvinar+volutpat.+Etiam+quis+nisl+augue.+Sed+fermentum+mattis+malesuada.+Praesent+congue+blandit+metus+non+blandit.+Vivamus+ante+nisl%2C+egestas+quis+ultricies+eget%2C+sollicitudin+nec+mauris.+Donec+molestie+est+dui%2C+ac+tincidunt+tellus+placerat+ac.+Nulla+quam+turpis%2C+tincidunt+non+lorem+at%2C+varius+hendrerit+diam.+Ut+neque+erat%2C+elementum+ac+molestie+in%2C+mattis+non+massa.+Vivamus+lorem+sapien%2C+posuere+vel+justo+vel%2C+condimentum+tempus+libero.+Sed+vulputate+orci+magna%2C+sed+aliquam+ex+lacinia+in.+Nullam+quis+tortor+velit.+Lorem+ipsum+dolor+sit+amet%2C+consectetur+adipiscing+elit.+Suspendisse+erat+augue%2C+convallis+lacinia+erat+sed%2C+ullamcorper+imperdiet+lectus.+Donec+dapibus%2C+leo+nec+lobortis+accumsan%2C+lacus+est+suscipit+nibh%2C+sit+amet+convallis+erat+est+et+arcu.%0D%0A</text>
+      <textAlign>HaCenter</textAlign>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+  </controls>
   <param>
-    <backgroundColor>4294967295</backgroundColor>
-    <fontSize>0</fontSize>
-    <fontFamily/>
+    <backgroundColor>4294572795</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
     <guideLines/>
   </param>
 </mockup>

@@ -15,7 +15,9 @@
         </control>
         <control controlID="3CE4565A-9DD4-4393-8635-28F0964E5070" controlTypeID="__group__" x="80" y="20" w="668" h="59" zOrder="1">
           <groupChildrenDescriptors>
-            <control controlID="E5FF81B4-0F74-4213-89BA-D0D974E32590" controlTypeID="HRule" x="0" y="47" w="637" h="12" zOrder="0"/>
+            <control controlID="E5FF81B4-0F74-4213-89BA-D0D974E32590" controlTypeID="HRule" x="0" y="47" w="637" h="12" zOrder="0">
+              <textSize>14</textSize>
+            </control>
             <control controlID="389CC167-4601-4BA2-8789-2536D5EE3CFE" controlTypeID="Icon" x="638" y="0" w="30" h="30" zOrder="1">
               <icon>
                 <ID/>
@@ -23,6 +25,7 @@
                 <iconCode>61737</iconCode>
               </icon>
               <URL>554F8B1DD371E18CFAF7BE87D1728E3B.svg</URL>
+              <textSize>14</textSize>
             </control>
             <control controlID="9AB433F3-6E9B-41B9-8674-1354CEAFC9C6" controlTypeID="Label" x="178" y="0" w="251" h="43" zOrder="2">
               <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
@@ -33,12 +36,15 @@
               <selectedIndex>-1</selectedIndex>
             </control>
           </groupChildrenDescriptors>
+          <textSize>14</textSize>
         </control>
         <control controlID="2B66B4B6-BBC5-435E-A013-09E9EE47CB66" controlTypeID="Border" x="0" y="0" w="768" h="468" zOrder="2">
           <alias>borderLayer</alias>
+          <textSize>14</textSize>
         </control>
       </groupChildrenDescriptors>
       <thinkness>1</thinkness>
+      <textSize>14</textSize>
     </control>
     <control controlID="FC0ECF96-5E5C-4EE4-9BA4-3258304D542A" controlTypeID="__group__" x="420" y="293" w="440" h="109" zOrder="1">
       <groupChildrenDescriptors>
@@ -74,6 +80,7 @@
           <text>%E9%AA%8C%E8%AF%81%E7%A0%81</text>
           <lineSpacing>0</lineSpacing>
           <selectedIndex>-1</selectedIndex>
+          <textSize>14</textSize>
         </control>
         <control controlID="F1C3CE6D-F448-47CD-9108-9F33A9081168" controlTypeID="Label" x="0" y="67" w="167" h="37" zOrder="4">
           <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
@@ -85,12 +92,13 @@
           <selectedIndex>-1</selectedIndex>
         </control>
       </groupChildrenDescriptors>
+      <textSize>14</textSize>
     </control>
   </controls>
   <param>
-    <backgroundColor>4294967295</backgroundColor>
-    <fontSize>0</fontSize>
-    <fontFamily/>
+    <backgroundColor>4294572795</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
     <guideLines/>
   </param>
 </mockup>

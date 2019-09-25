@@ -1,6 +1,6 @@
 ﻿<mockup version="5.3" minAllowVersion="5.3" ID="2F64B957-B3A4-46DE-891B-4C778C98DB63" platform="MtPad" defaultW="1280" defaultH="720" measureW="1280" measureH="720" screenOrientation="MoLandscape" mobileScreenScale="0">
-  <controls controlCount="57">
-    <control controlID="437A0E91-EDE5-482F-9007-CB4D66D08020" controlTypeID="__group__" x="5" y="142" w="1254" h="239" zOrder="0">
+  <controls controlCount="61">
+    <control controlID="437A0E91-EDE5-482F-9007-CB4D66D08020" controlTypeID="__group__" x="0" y="0" w="1254" h="239" zOrder="0">
       <links eventType="AtClick" animate="AmFade" animateAutoDelay="0" animateDuration="500">
         <link targetPageID="9886FA62-1395-47A2-99BA-A0E52519BB55" linkType="ltPageLink" isApplyIncludePage="False" title="%E5%8F%8C%E8%89%B2%E7%90%83">
           <area shape="0" alt="" ID="{5D8C1DDE-EC27-4E75-B468-A57AF56368CB}" coords="(0,0,1254,239)"/>
@@ -768,11 +768,44 @@
         </control>
       </groupChildrenDescriptors>
     </control>
+    <control controlID="5B92CB58-D27E-48CA-ADB7-7D7F35880202" controlTypeID="__group__" x="449" y="284" w="442" h="60" zOrder="1">
+      <groupChildrenDescriptors>
+        <control controlID="38612210-8038-4AAE-A83E-2AE99E5B8D69" controlTypeID="Button" x="125" y="0" w="132" h="60" zOrder="0">
+          <color>4293980400</color>
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>%E6%9C%BA%E9%80%897%2B2</text>
+          <textColor>4281545523</textColor>
+          <textSize>24</textSize>
+          <lineSpacing>0</lineSpacing>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="FD5AAFB1-3715-4440-A648-2001FFED71ED" controlTypeID="NumericStepper" x="0" y="0" w="95" h="60" zOrder="1">
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>10%E5%80%8D</text>
+          <textSize>24</textSize>
+          <lineSpacing>0</lineSpacing>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="3195C7C1-4B67-46B6-833D-D0BBC9C895E5" controlTypeID="Button" x="282" y="0" w="160" h="60" zOrder="2">
+          <color>4294901811</color>
+          <borderVisible>False</borderVisible>
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>80%E5%85%83</text>
+          <textColor>4294967295</textColor>
+          <textSize>24</textSize>
+          <lineSpacing>0</lineSpacing>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
   </controls>
   <param>
-    <backgroundColor>4294967295</backgroundColor>
-    <fontSize>0</fontSize>
-    <fontFamily/>
+    <backgroundColor>4294572795</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
     <guideLines/>
   </param>
 </mockup>

@@ -4,7 +4,9 @@
       <groupChildrenDescriptors>
         <control controlID="C25256D7-C7C3-4CBE-AA97-027FD86C37E9" controlTypeID="__group__" x="80" y="14" w="668" h="65" zOrder="0">
           <groupChildrenDescriptors>
-            <control controlID="9B518C9F-C3FB-4F79-B113-737F97DF1A47" controlTypeID="HRule" x="0" y="53" w="637" h="12" zOrder="0"/>
+            <control controlID="9B518C9F-C3FB-4F79-B113-737F97DF1A47" controlTypeID="HRule" x="0" y="53" w="637" h="12" zOrder="0">
+              <textSize>14</textSize>
+            </control>
             <control controlID="1D2AC83E-79FA-46E3-9F69-4B7A101C0D77" controlTypeID="Icon" x="638" y="6" w="30" h="30" zOrder="1">
               <icon>
                 <ID/>
@@ -12,6 +14,7 @@
                 <iconCode>61737</iconCode>
               </icon>
               <URL>554F8B1DD371E18CFAF7BE87D1728E3B.svg</URL>
+              <textSize>14</textSize>
             </control>
             <control controlID="1A56F1E1-5AB7-4ABD-980A-44B5CAE489C0" controlTypeID="TextArea" x="72" y="0" w="465" h="53" zOrder="2">
               <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
@@ -22,6 +25,7 @@
               <selectedIndex>-1</selectedIndex>
             </control>
           </groupChildrenDescriptors>
+          <textSize>14</textSize>
         </control>
         <control controlID="0A52560F-B5AF-4C89-AF52-2A75A2FE9BAA" controlTypeID="TextArea" x="43" y="152" w="705" h="107" zOrder="1">
           <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
@@ -52,15 +56,17 @@
         </control>
         <control controlID="37B9972F-A2D3-4A57-8769-EAEC54AF6BAD" controlTypeID="Border" x="0" y="0" w="768" h="468" zOrder="4">
           <alias>borderLayer</alias>
+          <textSize>14</textSize>
         </control>
       </groupChildrenDescriptors>
       <thinkness>1</thinkness>
+      <textSize>14</textSize>
     </control>
   </controls>
   <param>
-    <backgroundColor>4294967295</backgroundColor>
-    <fontSize>0</fontSize>
-    <fontFamily/>
+    <backgroundColor>4294572795</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
     <guideLines/>
   </param>
 </mockup>

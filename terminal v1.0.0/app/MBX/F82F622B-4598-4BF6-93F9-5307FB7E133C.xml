@@ -208,6 +208,11 @@
       <URL>05A3DB7E5A637094503F65426ECA491A.png</URL>
     </control>
     <control controlID="F9167463-3F41-457D-9AB3-9FD456E7BAA5" controlTypeID="__group__" x="279" y="257" w="232" h="348" zOrder="12">
+      <links eventType="AtClick" animate="AmFade" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="CAD96066-861F-436B-A926-A8F41359FE3D" linkType="ltPageLink" isApplyIncludePage="False" title="%E5%BF%AB%E4%B8%89">
+          <area shape="0" alt="" ID="{A2F053E4-545F-414E-9C39-C8E5D0185097}" coords="(0,0,232,348)"/>
+        </link>
+      </links>
       <groupChildrenDescriptors>
         <control controlID="72224B2C-0A11-4AD8-9F5C-8F67844B8FD9" controlTypeID="Image" x="0" y="0" w="232" h="348" zOrder="0">
           <caption>1</caption>
@@ -269,8 +274,25 @@
           <alias>content</alias>
           <groupChildrenDescriptors>
             <control controlID="FDFD5082-C7EA-42DB-A15B-21D53B13666F" controlTypeID="ButtonBar" x="0" y="0" w="644" h="49" zOrder="0">
+              <links eventType="AtClick" animate="AmFade" animateAutoDelay="0" animateDuration="500">
+                <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="%E9%80%80%E5%87%BA%E7%99%BB%E5%BD%95">
+                  <area shape="0" alt="" ID="{0FF4DD8A-2E3E-4057-961F-E23DD06B39E5}" coords="(0.5,0.5,129.5,48.5)"/>
+                </link>
+                <link targetPageID="A08C5C76-40E5-4F40-8DD3-C540843DE2C2" linkType="ltPageLink" isApplyIncludePage="False" title="%E8%B4%A6%E6%88%B7%E7%99%BB%E5%BD%95">
+                  <area shape="0" alt="" ID="{46BF4A54-D44F-4E15-A626-6E3D73522E77}" coords="(129.5,0.5,258.5,48.5)"/>
+                </link>
+                <link targetPageID="34653606-9039-44B2-B25C-6F37BA7E0E53" linkType="ltPageLink" isApplyIncludePage="False" title="%E5%BC%80%E5%A5%96%E5%88%97%E8%A1%A8">
+                  <area shape="0" alt="" ID="{00E8C9A2-0A96-4A40-BCB5-1436A8C6EF99}" coords="(258.5,0.5,387.5,48.5)"/>
+                </link>
+                <link targetPageID="3447352E-DDAA-4066-968E-25CA0F2B28B7" linkType="ltPageLink" isApplyIncludePage="False" title="%E4%BB%A3%E7%90%86%E5%85%85%E5%80%BC">
+                  <area shape="0" alt="" ID="{41163EC8-B6A5-4E59-8EBB-19A0B25766B0}" coords="(387.5,0.5,516.5,48.5)"/>
+                </link>
+                <link targetPageID="A8A0B83F-77E5-408C-948A-9DE8C86BA79B" linkType="ltPageLink" isApplyIncludePage="False" title="%E5%B8%AE%E5%8A%A9%E4%B8%AD%E5%BF%83">
+                  <area shape="0" alt="" ID="{0BDD7549-D3BC-4837-82E8-13EF5A31CFAF}" coords="(516.5,0.5,643.5,48.5)"/>
+                </link>
+              </links>
               <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
-              <text>%E9%80%80%E5%87%BA%E7%99%BB%E5%BD%95%2C%E8%B4%A6%E6%88%B7%E7%99%BB%E5%BD%95%2C%E5%BC%80%E5%A5%96%E5%88%97%E8%A1%A8%2C%E4%BB%A3%E7%90%86%E5%85%85%E5%80%BC%2C%E5%B8%AE%E5%8A%A9</text>
+              <text>%E9%80%80%E5%87%BA%E7%99%BB%E5%BD%95%2C%E8%B4%A6%E6%88%B7%E7%99%BB%E5%BD%95%2C%E5%BC%80%E5%A5%96%E5%88%97%E8%A1%A8%2C%E4%BB%A3%E7%90%86%E5%85%85%E5%80%BC%2C%E5%B8%AE%E5%8A%A9%E4%B8%AD%E5%BF%83</text>
               <textSize>14</textSize>
               <lineSpacing>0</lineSpacing>
             </control>
@@ -280,9 +302,9 @@
     </control>
   </controls>
   <param>
-    <backgroundColor>4294967295</backgroundColor>
-    <fontSize>0</fontSize>
-    <fontFamily/>
+    <backgroundColor>4294572795</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
     <guideLines/>
   </param>
 </mockup>

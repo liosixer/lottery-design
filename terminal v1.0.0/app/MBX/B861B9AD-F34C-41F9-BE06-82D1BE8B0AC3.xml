@@ -1,10 +1,12 @@
-<mockup version="5.3" minAllowVersion="5.3" ID="B861B9AD-F34C-41F9-BE06-82D1BE8B0AC3" platform="MtPad" defaultW="1280" defaultH="720" measureW="1280" measureH="720" screenOrientation="MoLandscape" mobileScreenScale="0">
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="B861B9AD-F34C-41F9-BE06-82D1BE8B0AC3" platform="MtPad" defaultW="1280" defaultH="720" measureW="1280" measureH="720" screenOrientation="MoLandscape" mobileScreenScale="0">
   <controls controlCount="9">
     <control controlID="6D6896EC-CF87-40C9-9209-3EA85A0CEEAB" controlTypeID="Panel" x="256" y="126" w="768" h="468" zOrder="0">
       <groupChildrenDescriptors>
         <control controlID="13FE53CC-6C95-4BE9-8B5B-F07E84369C87" controlTypeID="__group__" x="80" y="14" w="668" h="65" zOrder="0">
           <groupChildrenDescriptors>
-            <control controlID="26AB55E4-93C9-4D79-863F-A7242D8E388E" controlTypeID="HRule" x="0" y="53" w="637" h="12" zOrder="0"/>
+            <control controlID="26AB55E4-93C9-4D79-863F-A7242D8E388E" controlTypeID="HRule" x="0" y="53" w="637" h="12" zOrder="0">
+              <textSize>14</textSize>
+            </control>
             <control controlID="752C2AD6-368B-4333-89C8-B4A58E7E44EC" controlTypeID="Icon" x="638" y="6" w="30" h="30" zOrder="1">
               <icon>
                 <ID/>
@@ -12,6 +14,7 @@
                 <iconCode>61737</iconCode>
               </icon>
               <URL>554F8B1DD371E18CFAF7BE87D1728E3B.svg</URL>
+              <textSize>14</textSize>
             </control>
             <control controlID="48AB2BE0-FF14-44ED-9C86-A8A1D88964A6" controlTypeID="TextArea" x="72" y="0" w="465" h="53" zOrder="2">
               <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
@@ -22,6 +25,7 @@
               <selectedIndex>-1</selectedIndex>
             </control>
           </groupChildrenDescriptors>
+          <textSize>14</textSize>
         </control>
         <control controlID="BD1E1CAA-5DE3-4EFD-99B9-DB6D6954B98E" controlTypeID="Button" x="184" y="370" w="180" h="66" zOrder="1">
           <color>4288256409</color>
@@ -55,15 +59,17 @@
         </control>
         <control controlID="67FD8E65-3B6B-4D95-B39D-414821C362F1" controlTypeID="Border" x="0" y="0" w="768" h="468" zOrder="4">
           <alias>borderLayer</alias>
+          <textSize>14</textSize>
         </control>
       </groupChildrenDescriptors>
       <thinkness>1</thinkness>
+      <textSize>14</textSize>
     </control>
   </controls>
   <param>
-    <backgroundColor>4294967295</backgroundColor>
-    <fontSize>0</fontSize>
-    <fontFamily/>
+    <backgroundColor>4294572795</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
     <guideLines/>
   </param>
 </mockup>

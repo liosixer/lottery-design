@@ -1,9 +1,266 @@
-﻿<mockup version="5.3" minAllowVersion="5.3" ID="08D0AF6A-7278-43FF-B88A-664EAD0BBFDA" platform="MtPad" defaultW="1280" defaultH="720" measureW="1280" measureH="720" screenOrientation="MoLandscape" mobileScreenScale="0">
-  <controls controlCount="0"/>
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="02D35E2D-B444-4463-8D16-D8CEF562123C" platform="MtPad" defaultW="1280" defaultH="720" measureW="1280" measureH="720" screenOrientation="MoLandscape" mobileScreenScale="0">
+  <controls controlCount="36">
+    <control controlID="08086A88-BF61-453A-84FF-9900D9D7566E" controlTypeID="__group__" x="20" y="15" w="660" h="70" zOrder="0">
+      <groupChildrenDescriptors>
+        <control controlID="D8AB56C8-A22C-42BC-832A-E31C16A4D7A2" controlTypeID="Icon" x="0" y="30" w="40" h="40" zOrder="0">
+          <color>4291832877</color>
+          <icon>
+            <ID/>
+            <iconFontName>jdiconfontA</iconFontName>
+            <iconCode>59694</iconCode>
+          </icon>
+          <URL>7DE4DBC7C6FE94BFFC6A65F1F3ADE0A0.svg</URL>
+        </control>
+        <control controlID="43CA41E3-0893-42B7-AFB7-79E003464DED" controlTypeID="Icon" x="57" y="30" w="40" h="40" zOrder="1">
+          <color>4291832877</color>
+          <icon>
+            <ID/>
+            <iconFontName>jdiconfontA</iconFontName>
+            <iconCode>59694</iconCode>
+          </icon>
+          <URL>7DE4DBC7C6FE94BFFC6A65F1F3ADE0A0.svg</URL>
+        </control>
+        <control controlID="1C72138A-E356-48B4-AEE4-7587320FE42C" controlTypeID="Icon" x="114" y="30" w="40" h="40" zOrder="2">
+          <color>4291832877</color>
+          <icon>
+            <ID/>
+            <iconFontName>jdiconfontA</iconFontName>
+            <iconCode>59694</iconCode>
+          </icon>
+          <URL>7DE4DBC7C6FE94BFFC6A65F1F3ADE0A0.svg</URL>
+        </control>
+        <control controlID="B463E9AD-47CB-4FB7-99D6-1E0074259F71" controlTypeID="TextArea" x="0" y="0" w="660" h="25" zOrder="3">
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>%E7%AC%AC2019111%E6%9C%9F++%E5%BC%80%E5%A5%96%E6%97%B6%E9%97%B4%EF%BC%9A+2019-09-22+%EF%BC%88%E5%91%A8%E6%97%A5%EF%BC%89</text>
+          <textColor>4284900966</textColor>
+          <textSize>18</textSize>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="503C082C-AB5A-48B3-A27D-E5B96CFCCC78" controlTypeID="__group__" x="20" y="237" w="660" h="70" zOrder="1">
+      <groupChildrenDescriptors>
+        <control controlID="B383AB99-D152-4536-8D50-544B23930F06" controlTypeID="Icon" x="0" y="30" w="40" h="40" zOrder="0">
+          <color>4291832877</color>
+          <icon>
+            <ID/>
+            <iconFontName>jdiconfontA</iconFontName>
+            <iconCode>59694</iconCode>
+          </icon>
+          <URL>7DE4DBC7C6FE94BFFC6A65F1F3ADE0A0.svg</URL>
+        </control>
+        <control controlID="D0D8487E-D9FA-4CC0-8176-EA0E188951C6" controlTypeID="Icon" x="57" y="30" w="40" h="40" zOrder="1">
+          <color>4291832877</color>
+          <icon>
+            <ID/>
+            <iconFontName>jdiconfontA</iconFontName>
+            <iconCode>59694</iconCode>
+          </icon>
+          <URL>7DE4DBC7C6FE94BFFC6A65F1F3ADE0A0.svg</URL>
+        </control>
+        <control controlID="4234843A-16DD-4E3A-9176-BDD74370002B" controlTypeID="Icon" x="114" y="30" w="40" h="40" zOrder="2">
+          <color>4291832877</color>
+          <icon>
+            <ID/>
+            <iconFontName>jdiconfontA</iconFontName>
+            <iconCode>59694</iconCode>
+          </icon>
+          <URL>7DE4DBC7C6FE94BFFC6A65F1F3ADE0A0.svg</URL>
+        </control>
+        <control controlID="35E707D3-3934-45FE-A0C0-DA2C769719FB" controlTypeID="TextArea" x="0" y="0" w="660" h="25" zOrder="3">
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>%E7%AC%AC2019111%E6%9C%9F++%E5%BC%80%E5%A5%96%E6%97%B6%E9%97%B4%EF%BC%9A+2019-09-22+20%EF%BC%9A00</text>
+          <textColor>4284900966</textColor>
+          <textSize>18</textSize>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="141F8C98-349B-432C-9AF0-AE731661CB9C" controlTypeID="__group__" x="20" y="356" w="660" h="70" zOrder="2">
+      <groupChildrenDescriptors>
+        <control controlID="C9DF8B2B-FC55-4893-9292-45E7EC845EBF" controlTypeID="Icon" x="0" y="30" w="40" h="40" zOrder="0">
+          <color>4291832877</color>
+          <icon>
+            <ID/>
+            <iconFontName>jdiconfontA</iconFontName>
+            <iconCode>59694</iconCode>
+          </icon>
+          <URL>7DE4DBC7C6FE94BFFC6A65F1F3ADE0A0.svg</URL>
+        </control>
+        <control controlID="1450F745-7678-45E4-8D65-60D5F3B38532" controlTypeID="Icon" x="57" y="30" w="40" h="40" zOrder="1">
+          <color>4291832877</color>
+          <icon>
+            <ID/>
+            <iconFontName>jdiconfontA</iconFontName>
+            <iconCode>59694</iconCode>
+          </icon>
+          <URL>7DE4DBC7C6FE94BFFC6A65F1F3ADE0A0.svg</URL>
+        </control>
+        <control controlID="C0AAD299-67BC-4122-835F-FAD02E82C68A" controlTypeID="Icon" x="114" y="30" w="40" h="40" zOrder="2">
+          <color>4291832877</color>
+          <icon>
+            <ID/>
+            <iconFontName>jdiconfontA</iconFontName>
+            <iconCode>59694</iconCode>
+          </icon>
+          <URL>7DE4DBC7C6FE94BFFC6A65F1F3ADE0A0.svg</URL>
+        </control>
+        <control controlID="55E6DC10-A62C-412A-B9AE-BC2600B4D99A" controlTypeID="TextArea" x="0" y="0" w="660" h="25" zOrder="3">
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>%E7%AC%AC2019111%E6%9C%9F++%E5%BC%80%E5%A5%96%E6%97%B6%E9%97%B4%EF%BC%9A+2019-09-22+20%EF%BC%9A00</text>
+          <textColor>4284900966</textColor>
+          <textSize>18</textSize>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="0D0C1295-6D11-45AD-9F26-BC13B5813CA9" controlTypeID="__group__" x="20" y="467" w="654" h="70" zOrder="3">
+      <groupChildrenDescriptors>
+        <control controlID="805B4EA4-B96C-457B-A004-F65DEDDA8822" controlTypeID="Icon" x="0" y="30" w="40" h="40" zOrder="0">
+          <color>4291832877</color>
+          <icon>
+            <ID/>
+            <iconFontName>jdiconfontA</iconFontName>
+            <iconCode>59694</iconCode>
+          </icon>
+          <URL>7DE4DBC7C6FE94BFFC6A65F1F3ADE0A0.svg</URL>
+        </control>
+        <control controlID="3833C086-7E12-4B20-9F66-6D3273FFB5E1" controlTypeID="Icon" x="56" y="30" w="40" h="40" zOrder="1">
+          <color>4291832877</color>
+          <icon>
+            <ID/>
+            <iconFontName>jdiconfontA</iconFontName>
+            <iconCode>59694</iconCode>
+          </icon>
+          <URL>7DE4DBC7C6FE94BFFC6A65F1F3ADE0A0.svg</URL>
+        </control>
+        <control controlID="4190EEEA-5108-4F39-B619-9648747269FE" controlTypeID="Icon" x="113" y="30" w="40" h="40" zOrder="2">
+          <color>4291832877</color>
+          <icon>
+            <ID/>
+            <iconFontName>jdiconfontA</iconFontName>
+            <iconCode>59694</iconCode>
+          </icon>
+          <URL>7DE4DBC7C6FE94BFFC6A65F1F3ADE0A0.svg</URL>
+        </control>
+        <control controlID="656FE3D3-4406-4F2C-BE87-18D15B7296F2" controlTypeID="TextArea" x="0" y="0" w="654" h="25" zOrder="3">
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>%E7%AC%AC2019111%E6%9C%9F++%E5%BC%80%E5%A5%96%E6%97%B6%E9%97%B4%EF%BC%9A+2019-09-22+20%EF%BC%9A00</text>
+          <textColor>4284900966</textColor>
+          <textSize>18</textSize>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="8EFE3105-E444-499B-A0E3-77B8C7F8EDF4" controlTypeID="HRule" x="20" y="93" w="1240" h="12" zOrder="4">
+      <color>4291611852</color>
+    </control>
+    <control controlID="9876B77E-B516-4268-B4CF-31A119FDD8A8" controlTypeID="HRule" x="20" y="209" w="1240" h="12" zOrder="5">
+      <color>4291611852</color>
+    </control>
+    <control controlID="C6B980DF-DAEC-4A2C-9CB0-C30D06DDA481" controlTypeID="HRule" x="20" y="317" w="1240" h="12" zOrder="6">
+      <color>4291611852</color>
+    </control>
+    <control controlID="433E6453-C7A4-4672-A907-44370E7B403C" controlTypeID="HRule" x="20" y="436" w="1240" h="12" zOrder="7">
+      <color>4291611852</color>
+    </control>
+    <control controlID="6035035C-1C76-4C84-AE4E-91EED5DD6403" controlTypeID="HRule" x="20" y="545" w="1240" h="12" zOrder="8">
+      <color>4291611852</color>
+    </control>
+    <control controlID="F1F96F02-D904-487D-8171-6F4ADB2163E1" controlTypeID="Icon" x="1210" y="30" w="39" h="39" zOrder="9">
+      <color>4288256409</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>61733</iconCode>
+      </icon>
+      <URL>2D780716D3D89B2EFB0155599BA0A89F.svg</URL>
+    </control>
+    <control controlID="5849A8A4-9E5E-42CB-ADEC-37A6F88F95B6" controlTypeID="Icon" x="1210" y="146" w="39" h="39" zOrder="10">
+      <color>4288256409</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>61733</iconCode>
+      </icon>
+      <URL>2D780716D3D89B2EFB0155599BA0A89F.svg</URL>
+    </control>
+    <control controlID="034056B1-8DFE-48AE-B85B-9A3AFDE9C2F8" controlTypeID="Icon" x="1210" y="252" w="39" h="39" zOrder="11">
+      <color>4288256409</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>61733</iconCode>
+      </icon>
+      <URL>2D780716D3D89B2EFB0155599BA0A89F.svg</URL>
+    </control>
+    <control controlID="AD39E80A-FA0F-4D45-B3AB-00F5A0216A3E" controlTypeID="Icon" x="1210" y="371" w="39" h="39" zOrder="12">
+      <color>4288256409</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>61733</iconCode>
+      </icon>
+      <URL>2D780716D3D89B2EFB0155599BA0A89F.svg</URL>
+    </control>
+    <control controlID="13CE7D50-7E11-4569-A777-6CEE45D56C12" controlTypeID="Icon" x="1210" y="482" w="39" h="39" zOrder="13">
+      <color>4288256409</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>61733</iconCode>
+      </icon>
+      <URL>2D780716D3D89B2EFB0155599BA0A89F.svg</URL>
+    </control>
+    <control controlID="3AFA9719-5948-4CCE-83EA-1299F98128B3" controlTypeID="__group__" x="20" y="131" w="660" h="70" zOrder="14">
+      <groupChildrenDescriptors>
+        <control controlID="FA17A1ED-2712-4AA2-9567-198111BCBF69" controlTypeID="Icon" x="0" y="30" w="40" h="40" zOrder="0">
+          <color>4291832877</color>
+          <icon>
+            <ID/>
+            <iconFontName>jdiconfontA</iconFontName>
+            <iconCode>59694</iconCode>
+          </icon>
+          <URL>7DE4DBC7C6FE94BFFC6A65F1F3ADE0A0.svg</URL>
+        </control>
+        <control controlID="0520081C-91C0-43C2-824F-C57C98A9D4E8" controlTypeID="Icon" x="57" y="30" w="40" h="40" zOrder="1">
+          <color>4291832877</color>
+          <icon>
+            <ID/>
+            <iconFontName>jdiconfontA</iconFontName>
+            <iconCode>59694</iconCode>
+          </icon>
+          <URL>7DE4DBC7C6FE94BFFC6A65F1F3ADE0A0.svg</URL>
+        </control>
+        <control controlID="07E2EF3A-38E4-4BA2-B9E1-A2FF8215A995" controlTypeID="Icon" x="114" y="30" w="40" h="40" zOrder="2">
+          <color>4291832877</color>
+          <icon>
+            <ID/>
+            <iconFontName>jdiconfontA</iconFontName>
+            <iconCode>59694</iconCode>
+          </icon>
+          <URL>7DE4DBC7C6FE94BFFC6A65F1F3ADE0A0.svg</URL>
+        </control>
+        <control controlID="ADA3FE40-CD77-4A6D-A9EB-B5E3DB2BBFE9" controlTypeID="TextArea" x="0" y="0" w="660" h="25" zOrder="3">
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>%E7%AC%AC2019111%E6%9C%9F++%E5%BC%80%E5%A5%96%E6%97%B6%E9%97%B4%EF%BC%9A+2019-09-22+%EF%BC%88%E5%91%A8%E5%9B%9B%EF%BC%89</text>
+          <textColor>4284900966</textColor>
+          <textSize>18</textSize>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="C86C4654-7542-4330-A241-85D6AF0B8ABE" controlTypeID="HotSpot" x="20" y="10" w="1245" h="90" zOrder="15"/>
+  </controls>
   <param>
-    <backgroundColor>4294967295</backgroundColor>
-    <fontSize>0</fontSize>
-    <fontFamily/>
+    <backgroundColor>4294572795</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
     <guideLines/>
   </param>
 </mockup>

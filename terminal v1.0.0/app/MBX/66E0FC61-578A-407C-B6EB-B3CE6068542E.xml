@@ -2,7 +2,9 @@
   <controls controlCount="17">
     <control controlID="7926545F-7DB0-4AD4-B277-85D7D9FE0402" controlTypeID="Panel" x="254" y="126" w="768" h="468" zOrder="0">
       <groupChildrenDescriptors>
-        <control controlID="47651322-9D19-477D-9B6F-C2DE409BBB4E" controlTypeID="HRule" x="80" y="67" w="637" h="12" zOrder="0"/>
+        <control controlID="47651322-9D19-477D-9B6F-C2DE409BBB4E" controlTypeID="HRule" x="80" y="67" w="637" h="12" zOrder="0">
+          <textSize>14</textSize>
+        </control>
         <control controlID="9964445B-46DC-430A-AF77-35CCEBADF9E5" controlTypeID="Icon" x="718" y="20" w="30" h="30" zOrder="1">
           <icon>
             <ID/>
@@ -10,6 +12,7 @@
             <iconCode>61737</iconCode>
           </icon>
           <URL>554F8B1DD371E18CFAF7BE87D1728E3B.svg</URL>
+          <textSize>14</textSize>
         </control>
         <control controlID="2E3ECD79-05D7-48AC-9CC1-6E2659D03575" controlTypeID="TextArea" x="116" y="20" w="563" h="47" zOrder="2">
           <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
@@ -51,9 +54,11 @@
         </control>
         <control controlID="9E2BA7E3-CD2C-4345-800C-24CD3CFF7B9D" controlTypeID="Border" x="0" y="0" w="768" h="468" zOrder="6">
           <alias>borderLayer</alias>
+          <textSize>14</textSize>
         </control>
       </groupChildrenDescriptors>
       <thinkness>1</thinkness>
+      <textSize>14</textSize>
     </control>
     <control controlID="75C5B8A2-732F-43B2-AD95-F7036FFFFD8E" controlTypeID="__group__" x="395" y="357" w="486" h="46" zOrder="1">
       <groupChildrenDescriptors>
@@ -68,21 +73,35 @@
         </control>
         <control controlID="CB4E0922-7DD6-4880-A9AA-769C9B32162B" controlTypeID="__group__" x="0" y="0" w="486" h="12" zOrder="1">
           <groupChildrenDescriptors>
-            <control controlID="923816C3-1622-4437-A6B0-050246375499" controlTypeID="HRule" x="0" y="0" w="68" h="12" zOrder="0"/>
-            <control controlID="05B51894-1D4F-47A7-8EB7-442AB7808A61" controlTypeID="HRule" x="83" y="0" w="68" h="12" zOrder="1"/>
-            <control controlID="21300DDB-AC72-496A-876C-13B66C72412D" controlTypeID="HRule" x="167" y="0" w="68" h="12" zOrder="2"/>
-            <control controlID="576BFB98-CFD3-4007-A7FA-1E708F8956E8" controlTypeID="HRule" x="250" y="0" w="68" h="12" zOrder="3"/>
-            <control controlID="213F933C-31D5-456E-ABF3-447F8A01AC26" controlTypeID="HRule" x="334" y="0" w="68" h="12" zOrder="4"/>
-            <control controlID="EA14A2E6-B13A-4A93-81FC-F9D04A8FB6A7" controlTypeID="HRule" x="418" y="0" w="68" h="12" zOrder="5"/>
+            <control controlID="923816C3-1622-4437-A6B0-050246375499" controlTypeID="HRule" x="0" y="0" w="68" h="12" zOrder="0">
+              <textSize>14</textSize>
+            </control>
+            <control controlID="05B51894-1D4F-47A7-8EB7-442AB7808A61" controlTypeID="HRule" x="83" y="0" w="68" h="12" zOrder="1">
+              <textSize>14</textSize>
+            </control>
+            <control controlID="21300DDB-AC72-496A-876C-13B66C72412D" controlTypeID="HRule" x="167" y="0" w="68" h="12" zOrder="2">
+              <textSize>14</textSize>
+            </control>
+            <control controlID="576BFB98-CFD3-4007-A7FA-1E708F8956E8" controlTypeID="HRule" x="250" y="0" w="68" h="12" zOrder="3">
+              <textSize>14</textSize>
+            </control>
+            <control controlID="213F933C-31D5-456E-ABF3-447F8A01AC26" controlTypeID="HRule" x="334" y="0" w="68" h="12" zOrder="4">
+              <textSize>14</textSize>
+            </control>
+            <control controlID="EA14A2E6-B13A-4A93-81FC-F9D04A8FB6A7" controlTypeID="HRule" x="418" y="0" w="68" h="12" zOrder="5">
+              <textSize>14</textSize>
+            </control>
           </groupChildrenDescriptors>
+          <textSize>14</textSize>
         </control>
       </groupChildrenDescriptors>
+      <textSize>14</textSize>
     </control>
   </controls>
   <param>
-    <backgroundColor>4294967295</backgroundColor>
-    <fontSize>0</fontSize>
-    <fontFamily/>
+    <backgroundColor>4294572795</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
     <guideLines/>
   </param>
 </mockup>

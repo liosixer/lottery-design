@@ -1,0 +1,31 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="CFBA8C42-1399-4955-B813-FA20C21419F1" platform="MtPad" defaultW="1280" defaultH="720" measureW="1280" measureH="720" screenOrientation="MoLandscape" mobileScreenScale="0" clipArea="(0,0,0,0)">
+  <controls controlCount="3">
+    <control controlID="941313C3-BB0E-495A-8035-165EC4FD5DD5" controlTypeID="Accordion" x="0" y="0" w="558" h="420" zOrder="0">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E5%8F%8C%E8%89%B2%E7%90%83+20190815003200005+%E3%80%90%E7%AD%89%E5%BE%85%E5%BC%80%E5%A5%96%E3%80%91+++++++++++++++++++++++++++++%E3%80%90%E8%BF%BD%E6%8A%95%E3%80%91++%E3%80%90%E6%89%93%E5%8D%B0%E3%80%91%0D%0A-%E5%8D%95%E5%BC%8F%E6%8A%95%E6%B3%A8%EF%BC%8C%E6%8A%95%E6%B3%A8%E6%97%B6%E9%97%B4%EF%BC%9A2019-07-16+18%EF%BC%9A11%0D%0A-%E4%B8%AD%E5%A5%96%E9%87%91%E9%A2%9D%EF%BC%9A5%E5%85%83%EF%BC%8C%E5%8A%A0%E5%A5%96%E9%87%91%E9%A2%9D%EF%BC%9A0%E5%85%83%EF%BC%88%E6%9C%89%E5%B0%B1%E6%98%BE%E7%A4%BA%EF%BC%89%0D%0A-06%EF%BC%8C07%EF%BC%8C08%EF%BC%8C16%EF%BC%8C17%EF%BC%8C19%2322%EF%BC%8899%EF%BC%89%0D%0A-06%EF%BC%8C07%EF%BC%8C08%EF%BC%8C16%EF%BC%8C17%EF%BC%8C19%2322%EF%BC%8899%EF%BC%89%0D%0A-06%EF%BC%8C07%EF%BC%8C08%EF%BC%8C16%EF%BC%8C17%EF%BC%8C19%2322%EF%BC%8899%EF%BC%89%0D%0A%E5%BF%AB%E4%B8%89+20190815003200004+%E3%80%90%E5%B7%B2%E4%B8%AD%E5%A5%96%E3%80%91%0D%0A%E5%BF%AB%E4%B8%89+20190815003200003+%E3%80%90%E6%9C%AA%E6%94%AF%E4%BB%98%E3%80%91%0D%0A%E5%BF%AB%E4%B8%89+20190815003200002+%E3%80%90%E6%9C%AA%E4%B8%AD%E5%A5%96%E3%80%91%0D%0A%E5%BF%AB%E4%B8%89+20190815003200001+%E3%80%90%E5%87%BA%E7%A5%A8%E5%A4%B1%E8%B4%A5%EF%BC%8C%E5%B7%B2%E9%80%80%E6%AC%BE%E3%80%91%0D%0A%E5%8F%8C%E8%89%B2%E7%90%83+20190815003200005+%E3%80%90%E6%9C%AA%E4%B8%AD%E5%A5%96%E3%80%91%0D%0A%E5%BF%AB%E4%B8%89+20190815003200004+%E3%80%90%E6%9C%AA%E4%B8%AD%E5%A5%96%E3%80%91%0D%0A%E5%BF%AB%E4%B8%89+20190815003200001+%E3%80%90%E5%87%BA%E7%A5%A8%E5%A4%B1%E8%B4%A5%EF%BC%8C%E5%B7%B2%E9%80%80%E6%AC%BE%E3%80%91+%0D%0A</text>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedColor>1422928941</selectedColor>
+      <separatorColor>4291611852</separatorColor>
+    </control>
+    <control controlID="10E8735C-3F9E-4A6F-B90B-DE47AB5772E2" controlTypeID="TableView" x="0" y="423" w="558" h="42" zOrder="1">
+      <links eventType="AtClick" animate="AmFade" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="D822B2F9-ADE7-4429-AB15-10C3FB358116" linkType="ltPageLink" isApplyIncludePage="False" title="%E6%9F%A5%E7%9C%8B%E6%9B%B4%E5%A4%9A+-%3E">
+          <area shape="0" alt="" ID="{A5DD10E7-E7CF-4370-8261-B4C2AEEA73DD}" coords="(1,1,557,37)"/>
+        </link>
+      </links>
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E6%9F%A5%E7%9C%8B%E6%9B%B4%E5%A4%9A+-%3E</text>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedColor>4311003</selectedColor>
+    </control>
+    <control controlID="03D3DF3A-1082-4138-B263-6FD14D29BEF3" controlTypeID="HotSpot" x="398" y="2" w="57" h="27" zOrder="2"/>
+  </controls>
+  <param>
+    <backgroundColor>4294572795</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

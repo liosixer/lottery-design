@@ -1,10 +1,12 @@
-<mockup version="5.3" minAllowVersion="5.3" ID="E3F4DF48-CD82-4080-A0FF-47034877BA19" platform="MtPad" defaultW="1280" defaultH="720" measureW="1280" measureH="720" screenOrientation="MoLandscape" mobileScreenScale="0">
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="E3F4DF48-CD82-4080-A0FF-47034877BA19" platform="MtPad" defaultW="1280" defaultH="720" measureW="1280" measureH="720" screenOrientation="MoLandscape" mobileScreenScale="0">
   <controls controlCount="8">
     <control controlID="34C24A1D-EB3E-4F24-A7E7-FA7B1D089885" controlTypeID="Panel" x="256" y="126" w="768" h="468" zOrder="0">
       <groupChildrenDescriptors>
         <control controlID="6A58CF85-7694-4292-B628-275442F08BE9" controlTypeID="__group__" x="80" y="14" w="668" h="65" zOrder="0">
           <groupChildrenDescriptors>
-            <control controlID="6E6DEA9C-76BB-4687-9681-3E6CB1A33972" controlTypeID="HRule" x="0" y="53" w="637" h="12" zOrder="0"/>
+            <control controlID="6E6DEA9C-76BB-4687-9681-3E6CB1A33972" controlTypeID="HRule" x="0" y="53" w="637" h="12" zOrder="0">
+              <textSize>14</textSize>
+            </control>
             <control controlID="F8DEF002-2D12-4EF5-9BE5-C902264BC093" controlTypeID="Icon" x="638" y="6" w="30" h="30" zOrder="1">
               <icon>
                 <ID/>
@@ -12,6 +14,7 @@
                 <iconCode>61737</iconCode>
               </icon>
               <URL>554F8B1DD371E18CFAF7BE87D1728E3B.svg</URL>
+              <textSize>14</textSize>
             </control>
             <control controlID="CC9E4DB9-B8D2-47C2-B6D3-683D0151BD1A" controlTypeID="TextArea" x="72" y="0" w="465" h="53" zOrder="2">
               <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
@@ -22,6 +25,7 @@
               <selectedIndex>-1</selectedIndex>
             </control>
           </groupChildrenDescriptors>
+          <textSize>14</textSize>
         </control>
         <control controlID="64E10238-B5C7-46B9-BABD-16B154221294" controlTypeID="TextArea" x="88" y="188" w="593" h="59" zOrder="1">
           <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
@@ -44,15 +48,17 @@
         </control>
         <control controlID="60413AF0-025D-4C44-B620-C0B7D92C60CE" controlTypeID="Border" x="0" y="0" w="768" h="468" zOrder="3">
           <alias>borderLayer</alias>
+          <textSize>14</textSize>
         </control>
       </groupChildrenDescriptors>
       <thinkness>1</thinkness>
+      <textSize>14</textSize>
     </control>
   </controls>
   <param>
-    <backgroundColor>4294967295</backgroundColor>
-    <fontSize>0</fontSize>
-    <fontFamily/>
+    <backgroundColor>4294572795</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
     <guideLines/>
   </param>
 </mockup>

@@ -1,6 +1,6 @@
 ﻿<mockup version="5.3" minAllowVersion="5.3" ID="270348CD-04EB-4E71-8891-B90C8655E915" platform="MtPad" defaultW="1280" defaultH="720" measureW="1280" measureH="720" screenOrientation="MoLandscape" mobileScreenScale="0" clipArea="(0,0,0,0)">
-  <controls controlCount="94">
-    <control controlID="71488F88-0C4E-484F-8D27-EBA2FF4CA75F" controlTypeID="__group__" x="5" y="146" w="1255" h="407" zOrder="0">
+  <controls controlCount="97">
+    <control controlID="71488F88-0C4E-484F-8D27-EBA2FF4CA75F" controlTypeID="__group__" x="0" y="0" w="1255" h="407" zOrder="0">
       <links eventType="AtClick" animate="AmFade" animateAutoDelay="0" animateDuration="500">
         <link targetPageID="9886FA62-1395-47A2-99BA-A0E52519BB55" linkType="ltPageLink" isApplyIncludePage="False" title="%E5%8F%8C%E8%89%B2%E7%90%83">
           <area shape="0" alt="" ID="{3C4A9B85-6CD4-4AF7-B68D-32C2A9D6A9E2}" coords="(0,0,1255,407)"/>
@@ -1328,11 +1328,34 @@
         </control>
       </groupChildrenDescriptors>
     </control>
+    <control controlID="BDC84FDC-740A-4734-9B89-165CE4E00CEC" controlTypeID="__group__" x="472" y="426" w="335" h="60" zOrder="1">
+      <groupChildrenDescriptors>
+        <control controlID="DAAAD14C-9E66-4905-AB19-B39FC376224B" controlTypeID="NumericStepper" x="0" y="0" w="95" h="60" zOrder="0">
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>10%E5%80%8D</text>
+          <textSize>24</textSize>
+          <lineSpacing>0</lineSpacing>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="F0DC87D6-236C-48CC-AEC4-027E7A81DC0A" controlTypeID="Button" x="175" y="0" w="160" h="60" zOrder="1">
+          <color>4294901811</color>
+          <borderVisible>False</borderVisible>
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>80%E5%85%83</text>
+          <textColor>4294967295</textColor>
+          <textSize>24</textSize>
+          <lineSpacing>0</lineSpacing>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
   </controls>
   <param>
-    <backgroundColor>4294967295</backgroundColor>
-    <fontSize>0</fontSize>
-    <fontFamily/>
+    <backgroundColor>4294572795</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
     <guideLines/>
   </param>
 </mockup>
