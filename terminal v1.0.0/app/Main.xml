@@ -99,10 +99,10 @@
           <image key="CFAC147583A1C602F91FE6F2C39DA488.svg"/>
           <image key="7B8EE10436449DA65F4CF9674B966AA1.png"/>
         </images>
-        <page name="直选单式" ID="75B0CF33-5220-49C1-885D-183FB2904793" expanded="True" code="8ucYANkALP" thumbCode="8ucYANkALP" status="psWhite" isfolder="False" isshownode="True"/>
-        <page name="组三单式" ID="A1C41010-994A-4F74-A77D-A319616A8064" expanded="True" code="HvjtjshiDq" thumbCode="HvjtjshiDq" status="psWhite" isfolder="False" isshownode="True"/>
-        <page name="组六单式" ID="3E8687DB-6FDF-478D-A25D-8B4E08EC1385" expanded="False" code="RyjTBJOicR" thumbCode="RyjTBJOicR" status="psWhite" isfolder="False" isshownode="True"/>
-        <page name="直选复选" ID="6FCB6D1D-5AC4-4094-B815-966CAEC30552" expanded="True" code="PzCa3FoJP4" thumbCode="PzCa3FoJP4" status="psWhite" isfolder="False" isshownode="True"/>
+        <page name="直选单式" ID="75B0CF33-5220-49C1-885D-183FB2904793" expanded="True" code="BS8ffpxthp" thumbCode="BS8ffpxthp" status="psWhite" isfolder="False" isshownode="True"/>
+        <page name="组三单式" ID="A1C41010-994A-4F74-A77D-A319616A8064" expanded="True" code="bAuAybFUzv" thumbCode="bAuAybFUzv" status="psWhite" isfolder="False" isshownode="True"/>
+        <page name="组六单式" ID="3E8687DB-6FDF-478D-A25D-8B4E08EC1385" expanded="True" code="oWwGnWdCHp" thumbCode="oWwGnWdCHp" status="psWhite" isfolder="False" isshownode="True"/>
+        <page name="直选复选" ID="6FCB6D1D-5AC4-4094-B815-966CAEC30552" expanded="True" code="O2wOh4WLQg" thumbCode="O2wOh4WLQg" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
         <page name="组三复选" ID="F9C939FE-ABAE-4DE6-AE5F-76F846ED8A76" expanded="True" code="a2bRE7dJxQ" thumbCode="a2bRE7dJxQ" status="psWhite" isfolder="False" isshownode="True"/>
         <page name="组六复选" ID="1C359293-E3BE-4EED-8118-C3BBFEADC4D3" expanded="True" code="botZriRZCR" thumbCode="botZriRZCR" status="psWhite" isfolder="False" isshownode="True"/>
         <page name="直选包点" ID="134054CE-460A-4CB9-B1BB-3668F9B56470" expanded="True" code="isTXDRnyWG" thumbCode="isTXDRnyWG" status="psWhite" isfolder="False" isshownode="True"/>
@@ -126,7 +126,7 @@
         <image key="7B8EE10436449DA65F4CF9674B966AA1.png"/>
       </images>
     </page>
-    <page name="账户中心" ID="B5B163E1-4BCA-4E6C-BB92-18392EE72A86" expanded="True" code="kFKmjLZcOa" thumbCode="kFKmjLZcOa" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+    <page name="账户中心" ID="B5B163E1-4BCA-4E6C-BB92-18392EE72A86" expanded="True" code="kFKmjLZcOa" thumbCode="kFKmjLZcOa" status="psWhite" isfolder="False" isshownode="True">
       <images>
         <image key="CFAC147583A1C602F91FE6F2C39DA488.svg"/>
         <image key="554F8B1DD371E18CFAF7BE87D1728E3B.svg"/>
