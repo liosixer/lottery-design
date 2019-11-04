@@ -9,7 +9,7 @@
     <page name="首页" ID="F82F622B-4598-4BF6-93F9-5307FB7E133C" expanded="True" code="zO2zMfOcY2" thumbCode="zO2zMfOcY2" status="psWhite" isfolder="False" isshownode="True">
       <images>
         <image key="802ABB430F21050BBE21604061F9674A.png"/>
-        <image key="2C911C6D9E3AC0FC025DB7CB11875F97.png"/>
+        <image key="BE1C79410FF449B5917821C7B9D8EF68.png"/>
         <image key="DD3CEAC7711244177AC9CF31071D7D9B.png"/>
         <image key="9E6D3170936B99458050F63D62D13D99.png"/>
         <image key="7F859C3CCA5C29DF0EFDD71660F93AF7.png"/>
@@ -17,7 +17,7 @@
         <image key="B7215C2E94F6423ECB5734AA4FE26B13.png"/>
         <image key="217D8C57A111E49C18F625CDC6D26F63.png"/>
         <image key="05A3DB7E5A637094503F65426ECA491A.png"/>
-        <image key="BE1C79410FF449B5917821C7B9D8EF68.png"/>
+        <image key="2C911C6D9E3AC0FC025DB7CB11875F97.png"/>
       </images>
     </page>
     <page name="彩种们" ID="EF23DF31-5D75-456E-8A48-EA9F8F7F7C42" expanded="True" status="psGreen" isfolder="True" isshownode="True">
@@ -52,7 +52,7 @@
           <image key="CFAC147583A1C602F91FE6F2C39DA488.svg"/>
           <image key="7B8EE10436449DA65F4CF9674B966AA1.png"/>
         </images>
-        <page name="和值" ID="DDD60A09-F432-49EC-9946-EDDF8EEBFA0B" expanded="True" code="SHrvxKcuf1" thumbCode="SHrvxKcuf1" status="psWhite" isfolder="False" isshownode="True">
+        <page name="和值" ID="DDD60A09-F432-49EC-9946-EDDF8EEBFA0B" expanded="True" code="xknTAtC14U" thumbCode="xknTAtC14U" status="psWhite" isfolder="False" isshownode="True">
           <images>
             <image key="F84324AD82F28686557922A1047C21F0.svg"/>
             <image key="A3B89FB8D7A942600AD5240B7C821AF9.svg"/>
@@ -94,7 +94,23 @@
           </images>
         </page>
       </page>
-      <page name="3D" ID="FB76F977-B523-4B4E-B300-B0B0C4E2C29B" expanded="True" code="2bPAf95BgV" thumbCode="eyPZYqp1xY" status="psWhite" isfolder="False" isshownode="True"/>
+      <page name="3D" ID="FB76F977-B523-4B4E-B300-B0B0C4E2C29B" expanded="True" code="zywzMwwOpI" thumbCode="zywzMwwOpI" status="psWhite" isfolder="False" isshownode="True">
+        <images>
+          <image key="CFAC147583A1C602F91FE6F2C39DA488.svg"/>
+          <image key="7B8EE10436449DA65F4CF9674B966AA1.png"/>
+        </images>
+        <page name="直选单式" ID="75B0CF33-5220-49C1-885D-183FB2904793" expanded="True" code="8ucYANkALP" thumbCode="8ucYANkALP" status="psWhite" isfolder="False" isshownode="True"/>
+        <page name="组三单式" ID="A1C41010-994A-4F74-A77D-A319616A8064" expanded="True" code="HvjtjshiDq" thumbCode="HvjtjshiDq" status="psWhite" isfolder="False" isshownode="True"/>
+        <page name="组六单式" ID="3E8687DB-6FDF-478D-A25D-8B4E08EC1385" expanded="False" code="RyjTBJOicR" thumbCode="RyjTBJOicR" status="psWhite" isfolder="False" isshownode="True"/>
+        <page name="直选复选" ID="6FCB6D1D-5AC4-4094-B815-966CAEC30552" expanded="True" code="PzCa3FoJP4" thumbCode="PzCa3FoJP4" status="psWhite" isfolder="False" isshownode="True"/>
+        <page name="组三复选" ID="F9C939FE-ABAE-4DE6-AE5F-76F846ED8A76" expanded="True" code="a2bRE7dJxQ" thumbCode="a2bRE7dJxQ" status="psWhite" isfolder="False" isshownode="True"/>
+        <page name="组六复选" ID="1C359293-E3BE-4EED-8118-C3BBFEADC4D3" expanded="True" code="botZriRZCR" thumbCode="botZriRZCR" status="psWhite" isfolder="False" isshownode="True"/>
+        <page name="直选包点" ID="134054CE-460A-4CB9-B1BB-3668F9B56470" expanded="True" code="isTXDRnyWG" thumbCode="isTXDRnyWG" status="psWhite" isfolder="False" isshownode="True"/>
+        <page name="组三包点" ID="9D299C52-0ABB-435E-98C6-3D7D5482BC89" expanded="True" code="EW3wtvurov" thumbCode="EW3wtvurov" status="psWhite" isfolder="False" isshownode="True"/>
+        <page name="组六包点" ID="7205694B-9516-461F-B7D8-B97C714CD8B7" expanded="True" code="xv8k4tx2n1" thumbCode="xv8k4tx2n1" status="psWhite" isfolder="False" isshownode="True"/>
+        <page name="组选包点" ID="F099CCAD-0E4C-4FDA-893F-2E9220E59067" expanded="False" code="JZ2iux626v" thumbCode="JZ2iux626v" status="psWhite" isfolder="False" isshownode="True"/>
+        <page name="包号" ID="9EA45FF0-D103-4FF6-A352-3A9942CBEF3E" expanded="True" code="Ap5xD8dDzP" thumbCode="Ap5xD8dDzP" status="psWhite" isfolder="False" isshownode="True"/>
+      </page>
       <page name="30x5" ID="74E4F93E-1842-45B0-9C11-EEFBC1C67B4D" expanded="True" code="4S5btNwFZs" thumbCode="2k2pgj4iRu" status="psWhite" isfolder="False" isshownode="True"/>
       <page name="7lc" ID="A7C52068-6209-4E5B-8E3F-A770F532B7EA" expanded="True" code="Jg4mgpgWXr" thumbCode="QH4kebglC3" status="psWhite" isfolder="False" isshownode="True"/>
     </page>
@@ -110,7 +126,7 @@
         <image key="7B8EE10436449DA65F4CF9674B966AA1.png"/>
       </images>
     </page>
-    <page name="账户中心" ID="B5B163E1-4BCA-4E6C-BB92-18392EE72A86" expanded="True" code="kFKmjLZcOa" thumbCode="gYLBpBouXu" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+    <page name="账户中心" ID="B5B163E1-4BCA-4E6C-BB92-18392EE72A86" expanded="True" code="kFKmjLZcOa" thumbCode="kFKmjLZcOa" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
       <images>
         <image key="CFAC147583A1C602F91FE6F2C39DA488.svg"/>
         <image key="554F8B1DD371E18CFAF7BE87D1728E3B.svg"/>

@@ -1,0 +1,426 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="DDD60A09-F432-49EC-9946-EDDF8EEBFA0B" platform="MtPad" defaultW="1280" defaultH="720" measureW="1280" measureH="720" screenOrientation="MoLandscape" mobileScreenScale="0" clipArea="(0,0,0,0)">
+  <controls controlCount="58">
+    <control controlID="98AEE5E6-4CFE-407C-9A59-B68886C5D861" controlTypeID="Panel" x="0" y="0" w="1280" h="421" zOrder="0">
+      <groupChildrenDescriptors>
+        <control controlID="D1953C87-2764-495E-8CEC-05F1731BAE59" controlTypeID="__group__" x="283" y="202" w="60" h="62" zOrder="0">
+          <groupChildrenDescriptors>
+            <control controlID="D3C09E86-6031-4EB2-9BFB-D10970AD2159" controlTypeID="__group__" x="0" y="0" w="60" h="62" zOrder="0">
+              <groupChildrenDescriptors>
+                <control controlID="1DB2E5C4-F894-4B90-9B7C-6D023395A144" controlTypeID="Shape" x="0" y="2" w="60" h="60" zOrder="0">
+                  <color>4288256409</color>
+                  <borderVisible>False</borderVisible>
+                  <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <textSize>14</textSize>
+                  <selectedIndex>-1</selectedIndex>
+                  <radius>4</radius>
+                  <radiusIsPercent>True</radiusIsPercent>
+                </control>
+                <control controlID="2016CAAD-2D62-4592-AEE2-D06144EDE8C9" controlTypeID="Shape" x="0" y="0" w="60" h="60" zOrder="1">
+                  <color>4292730333</color>
+                  <borderVisible>False</borderVisible>
+                  <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <textSize>14</textSize>
+                  <selectedIndex>-1</selectedIndex>
+                  <radius>4</radius>
+                  <radiusIsPercent>True</radiusIsPercent>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="1F61AB2C-758E-417B-973C-42663FBF3AED" controlTypeID="TextArea" x="8" y="9" w="44" h="44" zOrder="1">
+              <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+              <text>0</text>
+              <textColor>4281545523</textColor>
+              <textSize>32</textSize>
+              <textAlign>HaCenter</textAlign>
+              <textVAlign>VaMiddle</textVAlign>
+              <textStyles>[fsBold]</textStyles>
+              <useDefaultTextSize>False</useDefaultTextSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="2C879D84-0D68-4B44-B61F-5A98EC3C67E7" controlTypeID="__group__" x="354" y="202" w="60" h="62" zOrder="1">
+          <groupChildrenDescriptors>
+            <control controlID="0140B099-FBC6-4314-8E95-4CC7FA79DFD6" controlTypeID="__group__" x="0" y="0" w="60" h="62" zOrder="0">
+              <groupChildrenDescriptors>
+                <control controlID="A3E423AC-9887-4670-90FB-3A9E743F0059" controlTypeID="Shape" x="0" y="2" w="60" h="60" zOrder="0">
+                  <color>4288256409</color>
+                  <borderVisible>False</borderVisible>
+                  <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <textSize>14</textSize>
+                  <selectedIndex>-1</selectedIndex>
+                  <radius>4</radius>
+                  <radiusIsPercent>True</radiusIsPercent>
+                </control>
+                <control controlID="AD5845FA-0DF2-4AAF-A962-6CCAEC05EB88" controlTypeID="Shape" x="0" y="0" w="60" h="60" zOrder="1">
+                  <color>4292730333</color>
+                  <borderVisible>False</borderVisible>
+                  <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <textSize>14</textSize>
+                  <selectedIndex>-1</selectedIndex>
+                  <radius>4</radius>
+                  <radiusIsPercent>True</radiusIsPercent>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="909A4ABE-6BC6-43DC-BA37-F5E4433552E1" controlTypeID="TextArea" x="8" y="9" w="44" h="44" zOrder="1">
+              <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+              <text>1</text>
+              <textColor>4281545523</textColor>
+              <textSize>32</textSize>
+              <textAlign>HaCenter</textAlign>
+              <textVAlign>VaMiddle</textVAlign>
+              <textStyles>[fsBold]</textStyles>
+              <useDefaultTextSize>False</useDefaultTextSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="9387CF80-86FB-4B38-9AEB-581FD1287F21" controlTypeID="__group__" x="425" y="202" w="60" h="62" zOrder="2">
+          <groupChildrenDescriptors>
+            <control controlID="F14529C0-02F0-4CC6-A500-518BD957C326" controlTypeID="__group__" x="0" y="0" w="60" h="62" zOrder="0">
+              <groupChildrenDescriptors>
+                <control controlID="2A84ADF1-4818-4E1E-AE2C-E23FBEA81CC3" controlTypeID="Shape" x="0" y="2" w="60" h="60" zOrder="0">
+                  <color>4288256409</color>
+                  <borderVisible>False</borderVisible>
+                  <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <textSize>14</textSize>
+                  <selectedIndex>-1</selectedIndex>
+                  <radius>4</radius>
+                  <radiusIsPercent>True</radiusIsPercent>
+                </control>
+                <control controlID="89E2B018-98B8-4662-A48F-8802D791BC85" controlTypeID="Shape" x="0" y="0" w="60" h="60" zOrder="1">
+                  <color>4292730333</color>
+                  <borderVisible>False</borderVisible>
+                  <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <textSize>14</textSize>
+                  <selectedIndex>-1</selectedIndex>
+                  <radius>4</radius>
+                  <radiusIsPercent>True</radiusIsPercent>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="B553A2D4-C43F-4C55-99B5-BD0C610E5A5F" controlTypeID="TextArea" x="8" y="9" w="44" h="44" zOrder="1">
+              <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+              <text>2</text>
+              <textColor>4281545523</textColor>
+              <textSize>32</textSize>
+              <textAlign>HaCenter</textAlign>
+              <textVAlign>VaMiddle</textVAlign>
+              <textStyles>[fsBold]</textStyles>
+              <useDefaultTextSize>False</useDefaultTextSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="DCDEF510-E391-4530-8B11-9560782874EF" controlTypeID="__group__" x="496" y="202" w="60" h="62" zOrder="3">
+          <groupChildrenDescriptors>
+            <control controlID="BCD1BCA7-9024-4983-932C-A936412AE391" controlTypeID="__group__" x="0" y="0" w="60" h="62" zOrder="0">
+              <groupChildrenDescriptors>
+                <control controlID="8B9B2F1A-64F6-4C33-8522-341F892D511F" controlTypeID="Shape" x="0" y="2" w="60" h="60" zOrder="0">
+                  <color>4288256409</color>
+                  <borderVisible>False</borderVisible>
+                  <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <textSize>14</textSize>
+                  <selectedIndex>-1</selectedIndex>
+                  <radius>4</radius>
+                  <radiusIsPercent>True</radiusIsPercent>
+                </control>
+                <control controlID="A5802926-A9CC-4C1D-9155-4BFDA17548F0" controlTypeID="Shape" x="0" y="0" w="60" h="60" zOrder="1">
+                  <color>4292730333</color>
+                  <borderVisible>False</borderVisible>
+                  <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <textSize>14</textSize>
+                  <selectedIndex>-1</selectedIndex>
+                  <radius>4</radius>
+                  <radiusIsPercent>True</radiusIsPercent>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="4C193FF4-8162-45AF-828E-D4901D0EEF79" controlTypeID="TextArea" x="8" y="9" w="44" h="44" zOrder="1">
+              <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+              <text>3</text>
+              <textColor>4281545523</textColor>
+              <textSize>32</textSize>
+              <textAlign>HaCenter</textAlign>
+              <textVAlign>VaMiddle</textVAlign>
+              <textStyles>[fsBold]</textStyles>
+              <useDefaultTextSize>False</useDefaultTextSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="207B3DDE-2847-49AD-8C27-787D1573EF49" controlTypeID="__group__" x="567" y="202" w="60" h="62" zOrder="4">
+          <groupChildrenDescriptors>
+            <control controlID="2C973E18-94E4-441D-A020-D53286DC81CA" controlTypeID="__group__" x="0" y="0" w="60" h="62" zOrder="0">
+              <groupChildrenDescriptors>
+                <control controlID="60DFEE87-1E07-4494-8161-F6587935F387" controlTypeID="Shape" x="0" y="2" w="60" h="60" zOrder="0">
+                  <color>4288256409</color>
+                  <borderVisible>False</borderVisible>
+                  <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <textSize>14</textSize>
+                  <selectedIndex>-1</selectedIndex>
+                  <radius>4</radius>
+                  <radiusIsPercent>True</radiusIsPercent>
+                </control>
+                <control controlID="F1E54959-2CF2-4E8B-B8BC-3549EF853DDE" controlTypeID="Shape" x="0" y="0" w="60" h="60" zOrder="1">
+                  <color>4292730333</color>
+                  <borderVisible>False</borderVisible>
+                  <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <textSize>14</textSize>
+                  <selectedIndex>-1</selectedIndex>
+                  <radius>4</radius>
+                  <radiusIsPercent>True</radiusIsPercent>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="B4ADC86A-03C7-4476-8F4F-BE0403747079" controlTypeID="TextArea" x="8" y="9" w="44" h="44" zOrder="1">
+              <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+              <text>4</text>
+              <textColor>4281545523</textColor>
+              <textSize>32</textSize>
+              <textAlign>HaCenter</textAlign>
+              <textVAlign>VaMiddle</textVAlign>
+              <textStyles>[fsBold]</textStyles>
+              <useDefaultTextSize>False</useDefaultTextSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="3973019A-900F-4B61-B1CC-276D7C8F70FC" controlTypeID="__group__" x="638" y="202" w="60" h="62" zOrder="5">
+          <groupChildrenDescriptors>
+            <control controlID="03852162-734B-40E9-9C2F-0B1779F00758" controlTypeID="__group__" x="0" y="0" w="60" h="62" zOrder="0">
+              <groupChildrenDescriptors>
+                <control controlID="291E1E5C-31C5-42F4-8F4E-2B32C5C0A016" controlTypeID="Shape" x="0" y="2" w="60" h="60" zOrder="0">
+                  <color>4288256409</color>
+                  <borderVisible>False</borderVisible>
+                  <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <textSize>14</textSize>
+                  <selectedIndex>-1</selectedIndex>
+                  <radius>4</radius>
+                  <radiusIsPercent>True</radiusIsPercent>
+                </control>
+                <control controlID="583D28FE-79A6-4550-8F5F-E57E8A08BDE2" controlTypeID="Shape" x="0" y="0" w="60" h="60" zOrder="1">
+                  <color>4292730333</color>
+                  <borderVisible>False</borderVisible>
+                  <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <textSize>14</textSize>
+                  <selectedIndex>-1</selectedIndex>
+                  <radius>4</radius>
+                  <radiusIsPercent>True</radiusIsPercent>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="AAF7CA10-A8CE-4A49-A30D-50F00C2C852D" controlTypeID="TextArea" x="8" y="9" w="44" h="44" zOrder="1">
+              <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+              <text>5</text>
+              <textColor>4281545523</textColor>
+              <textSize>32</textSize>
+              <textAlign>HaCenter</textAlign>
+              <textVAlign>VaMiddle</textVAlign>
+              <textStyles>[fsBold]</textStyles>
+              <useDefaultTextSize>False</useDefaultTextSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="725874A3-3FF1-4BD5-ADF7-C651733CA9B7" controlTypeID="__group__" x="709" y="202" w="60" h="62" zOrder="6">
+          <groupChildrenDescriptors>
+            <control controlID="DBF2CDEB-7E5C-437B-9F63-173C70D641DF" controlTypeID="__group__" x="0" y="0" w="60" h="62" zOrder="0">
+              <groupChildrenDescriptors>
+                <control controlID="0C65E301-96B6-49CB-AA11-4ECAD88A388D" controlTypeID="Shape" x="0" y="2" w="60" h="60" zOrder="0">
+                  <color>4288256409</color>
+                  <borderVisible>False</borderVisible>
+                  <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <textSize>14</textSize>
+                  <selectedIndex>-1</selectedIndex>
+                  <radius>4</radius>
+                  <radiusIsPercent>True</radiusIsPercent>
+                </control>
+                <control controlID="ED2CFC23-4862-4055-A9B9-DF9E64D5A43B" controlTypeID="Shape" x="0" y="0" w="60" h="60" zOrder="1">
+                  <color>4292730333</color>
+                  <borderVisible>False</borderVisible>
+                  <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <textSize>14</textSize>
+                  <selectedIndex>-1</selectedIndex>
+                  <radius>4</radius>
+                  <radiusIsPercent>True</radiusIsPercent>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="6FA29680-E57C-49F9-ACFA-F4D51636D1B8" controlTypeID="TextArea" x="8" y="9" w="44" h="44" zOrder="1">
+              <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+              <text>6</text>
+              <textColor>4281545523</textColor>
+              <textSize>32</textSize>
+              <textAlign>HaCenter</textAlign>
+              <textVAlign>VaMiddle</textVAlign>
+              <textStyles>[fsBold]</textStyles>
+              <useDefaultTextSize>False</useDefaultTextSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="B13899A1-B1CD-46C5-8B9A-483AB271B0D8" controlTypeID="__group__" x="780" y="202" w="60" h="62" zOrder="7">
+          <groupChildrenDescriptors>
+            <control controlID="C39095E8-021A-47D9-836D-00DED17EBBF8" controlTypeID="__group__" x="0" y="0" w="60" h="62" zOrder="0">
+              <groupChildrenDescriptors>
+                <control controlID="BFEF4ABF-C292-4802-99A5-77E830BDB654" controlTypeID="Shape" x="0" y="2" w="60" h="60" zOrder="0">
+                  <color>4288256409</color>
+                  <borderVisible>False</borderVisible>
+                  <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <textSize>14</textSize>
+                  <selectedIndex>-1</selectedIndex>
+                  <radius>4</radius>
+                  <radiusIsPercent>True</radiusIsPercent>
+                </control>
+                <control controlID="933817BF-BA4F-433A-B6E8-A7A5BA86365F" controlTypeID="Shape" x="0" y="0" w="60" h="60" zOrder="1">
+                  <color>4292730333</color>
+                  <borderVisible>False</borderVisible>
+                  <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <textSize>14</textSize>
+                  <selectedIndex>-1</selectedIndex>
+                  <radius>4</radius>
+                  <radiusIsPercent>True</radiusIsPercent>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="2BACDCD5-2134-44DD-B8A9-3A6BEE73459C" controlTypeID="TextArea" x="8" y="9" w="44" h="44" zOrder="1">
+              <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+              <text>7</text>
+              <textColor>4281545523</textColor>
+              <textSize>32</textSize>
+              <textAlign>HaCenter</textAlign>
+              <textVAlign>VaMiddle</textVAlign>
+              <textStyles>[fsBold]</textStyles>
+              <useDefaultTextSize>False</useDefaultTextSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="D747F717-6C84-4787-8643-2DA814CFAAC1" controlTypeID="__group__" x="851" y="202" w="60" h="62" zOrder="8">
+          <groupChildrenDescriptors>
+            <control controlID="25A89143-6335-42F6-94B1-9D2639CD71D8" controlTypeID="__group__" x="0" y="0" w="60" h="62" zOrder="0">
+              <groupChildrenDescriptors>
+                <control controlID="F1CF5217-BEB1-4462-B981-73330DDD8440" controlTypeID="Shape" x="0" y="2" w="60" h="60" zOrder="0">
+                  <color>4288256409</color>
+                  <borderVisible>False</borderVisible>
+                  <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <textSize>14</textSize>
+                  <selectedIndex>-1</selectedIndex>
+                  <radius>4</radius>
+                  <radiusIsPercent>True</radiusIsPercent>
+                </control>
+                <control controlID="5E8F8A8D-B581-4225-A11B-695D121405AB" controlTypeID="Shape" x="0" y="0" w="60" h="60" zOrder="1">
+                  <color>4292730333</color>
+                  <borderVisible>False</borderVisible>
+                  <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <textSize>14</textSize>
+                  <selectedIndex>-1</selectedIndex>
+                  <radius>4</radius>
+                  <radiusIsPercent>True</radiusIsPercent>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="8A60D5B7-1A6C-4FD2-B90C-737A026B5298" controlTypeID="TextArea" x="8" y="9" w="44" h="44" zOrder="1">
+              <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+              <text>8</text>
+              <textColor>4281545523</textColor>
+              <textSize>32</textSize>
+              <textAlign>HaCenter</textAlign>
+              <textVAlign>VaMiddle</textVAlign>
+              <textStyles>[fsBold]</textStyles>
+              <useDefaultTextSize>False</useDefaultTextSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="785FF9F7-9EA9-4EFD-A9E4-1C1E8DA57513" controlTypeID="__group__" x="918" y="202" w="60" h="62" zOrder="9">
+          <groupChildrenDescriptors>
+            <control controlID="36360A8D-BF53-4431-A7EA-BACA096ADB2C" controlTypeID="__group__" x="0" y="0" w="60" h="62" zOrder="0">
+              <groupChildrenDescriptors>
+                <control controlID="36CC6597-0583-40FC-8BBF-1B03A2984B1B" controlTypeID="Shape" x="0" y="2" w="60" h="60" zOrder="0">
+                  <color>4288256409</color>
+                  <borderVisible>False</borderVisible>
+                  <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <textSize>14</textSize>
+                  <selectedIndex>-1</selectedIndex>
+                  <radius>4</radius>
+                  <radiusIsPercent>True</radiusIsPercent>
+                </control>
+                <control controlID="4DB3AE02-D4F4-4BA0-9051-43F589C44916" controlTypeID="Shape" x="0" y="0" w="60" h="60" zOrder="1">
+                  <color>4292730333</color>
+                  <borderVisible>False</borderVisible>
+                  <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <textSize>14</textSize>
+                  <selectedIndex>-1</selectedIndex>
+                  <radius>4</radius>
+                  <radiusIsPercent>True</radiusIsPercent>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="79C31F1F-B635-4AB6-8EE7-DB2FDC601299" controlTypeID="TextArea" x="8" y="9" w="44" h="44" zOrder="1">
+              <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+              <text>9</text>
+              <textColor>4281545523</textColor>
+              <textSize>32</textSize>
+              <textAlign>HaCenter</textAlign>
+              <textVAlign>VaMiddle</textVAlign>
+              <textStyles>[fsBold]</textStyles>
+              <useDefaultTextSize>False</useDefaultTextSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="82BE8DD2-1F66-4413-81AB-D34232142088" controlTypeID="__group__" x="240" y="156" w="800" h="36" zOrder="10">
+          <groupChildrenDescriptors>
+            <control controlID="564F2B1E-E102-462E-BF19-00CCC8BA44A8" controlTypeID="HRule" x="0" y="24" w="800" h="12" zOrder="0"/>
+            <control controlID="FD1D579F-3E15-49FF-9FBB-935A9D3D320B" controlTypeID="TextArea" x="0" y="0" w="387" h="31" zOrder="1">
+              <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+              <text>%E8%87%B3%E5%B0%91%E9%80%89%E6%8B%A94%E4%B8%AA%E5%8F%B7%E7%A0%81</text>
+              <textColor>4291832877</textColor>
+              <textSize>20</textSize>
+              <textVAlign>VaMiddle</textVAlign>
+              <textStyles>[fsBold]</textStyles>
+              <useDefaultTextSize>False</useDefaultTextSize>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="6CEA63F0-CE8F-44EF-989F-DE92C9FADBAB" controlTypeID="Border" x="0" y="0" w="1280" h="421" zOrder="11">
+          <alias>borderLayer</alias>
+        </control>
+      </groupChildrenDescriptors>
+      <thinkness>1</thinkness>
+    </control>
+    <control controlID="7EB1EBE2-CC5D-4126-B981-D878E2BA568C" controlTypeID="__group__" x="509" y="513" w="262" h="60" zOrder="1">
+      <groupChildrenDescriptors>
+        <control controlID="F0516082-14C2-4B3D-A42D-0F9CE9051D4A" controlTypeID="NumericStepper" x="0" y="0" w="95" h="60" zOrder="0">
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>10%E5%80%8D</text>
+          <textSize>24</textSize>
+          <lineSpacing>0</lineSpacing>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="E39B87A7-7815-421F-AE41-CC7A55020FD4" controlTypeID="Button" x="102" y="0" w="160" h="60" zOrder="1">
+          <color>4294901811</color>
+          <borderVisible>False</borderVisible>
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>80%E5%85%83</text>
+          <textColor>4294967295</textColor>
+          <textSize>24</textSize>
+          <lineSpacing>0</lineSpacing>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294572795</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>
